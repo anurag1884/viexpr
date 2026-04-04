@@ -1,0 +1,21 @@
+ExprID,Expression,Type
+1,"
+
+
+2
+ 3
+ +",Postfix
+2,23 4 +,Postfix
+3,"2 3
+",Postfix
+4,2 +,Postfix
+5,2 3 4 + +,Postfix
+6,2 3 + 4,Postfix
+7,2 0 /,Postfix
+8,abc,Postfix
+9,2 3 + *,Postfix
+10,23+,Postfix
+11,2 34 +,Postfix
+12,2/0,Infix
+13,2/0,Postfix
+14,2 3+,Postfix

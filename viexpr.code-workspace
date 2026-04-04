@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"clangd.arguments": [
+			"--compile-commands-dir=build",
+			"--header-insertion=never"
+		],
+		"C_Cpp.intelliSenseEngine": "disabled",
+		"cmake.options.statusBarVisibility": "visible",
+		"cmake.copyCompileCommands": "${workspaceFolder}/build/compile_commands.json"
+	}
+}

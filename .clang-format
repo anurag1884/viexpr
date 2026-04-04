@@ -1,0 +1,19 @@
+---
+# Start with a base style (LLVM is common)
+BasedOnStyle: LLVM
+
+# Use 4 spaces for indentation
+IndentWidth: 4
+
+# Keep curly braces on the next line (Allman/BSD style)
+BreakBeforeBraces: Allman
+
+# Ensure all tabs are expanded into spaces
+UseTab: Never
+
+# Avoid splitting string literals while formatting
+BreakStringLiterals: false
+
+# Avoid formatting functions on a single line
+AllowShortFunctionsOnASingleLine: None
+---
