@@ -1,0 +1,16 @@
+x86-mingw-static/
+x86-mingw-static/debug/
+x86-mingw-static/debug/lib/
+x86-mingw-static/debug/lib/WebView2LoaderStatic.lib
+x86-mingw-static/include/
+x86-mingw-static/include/WebView2.h
+x86-mingw-static/include/WebView2EnvironmentOptions.h
+x86-mingw-static/lib/
+x86-mingw-static/lib/WebView2LoaderStatic.lib
+x86-mingw-static/share/
+x86-mingw-static/share/unofficial-webview2/
+x86-mingw-static/share/unofficial-webview2/unofficial-webview2-config.cmake
+x86-mingw-static/share/webview2/
+x86-mingw-static/share/webview2/copyright
+x86-mingw-static/share/webview2/vcpkg.spdx.json
+x86-mingw-static/share/webview2/vcpkg_abi_info.txt

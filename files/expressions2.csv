@@ -1,0 +1,1001 @@
+ExprID,Expression,Type
+1,4 / 3 - 8,Infix
+2,5 ^ 3 * 5 * 4 + 9 * 7,Infix
+3,6 + 2 ^ 1 ^ 6 / 2,Infix
+4,2 1 4 * - 2 - 2 - 2 -,Postfix
+5,6 / 3 * 3 / 1 / 4 / 2,Infix
+6,5 0 * 6 +,Postfix
+7,2 * 2 * 3 / 1,Infix
+8,2 + 5 + 3,Infix
+9,1 3 9 0 ^ / +,Postfix
+10,2 / 7 / 4,Infix
+11,6 ^ 9 + 4 - 1,Infix
+12,8 ^ 0 - 3,Infix
+13,2 4 8 * 0 * -,Postfix
+14,9 4 7 ^ *,Postfix
+15,3 ^ 1 ^ 5 - 0 / 5,Infix
+16,6 2 * 5 / 3 0 4 ^ ^ +,Postfix
+17,2 8 6 8 ^ ^ ^ 0 / 5 -,Postfix
+18,8 5 - 5 0 * + 2 -,Postfix
+19,6 ^ 5 + 0 - 7 + 1 * 4,Infix
+20,2 5 ^ 1 *,Postfix
+21,1 ^ 8 - 0 * 9 * 7 - 1,Infix
+22,2 4 - 3 -,Postfix
+23,3 1 / 9 * 3 + 7 8 ^ +,Postfix
+24,2 8 2 ^ * 4 *,Postfix
+25,4 5 9 5 ^ * -,Postfix
+26,9 * 6 + 4 + 3,Infix
+27,0 5 ^ 1 * 6 + 1 -,Postfix
+28,5 * 4 / 7,Infix
+29,0 + 0 * 3,Infix
+30,9 1 * 9 2 * 2 * 3 * +,Postfix
+31,4 ^ 6 * 2 + 0,Infix
+32,0 * 3 - 6 / 9,Infix
+33,1 7 * 1 * 0 *,Postfix
+34,5 ^ 9 ^ 8 + 2,Infix
+35,7 * 7 + 1 - 1 / 2,Infix
+36,7 / 5 ^ 3 - 3,Infix
+37,0 * 3 - 9 + 3 + 5 * 7,Infix
+38,3 1 7 2 ^ * - 9 +,Postfix
+39,6 0 / 0 2 / 4 / 7 * +,Postfix
+40,6 * 2 - 6 ^ 7 ^ 1 + 7,Infix
+41,5 ^ 8 * 6 + 4 ^ 4 / 2,Infix
+42,1 / 1 / 9 - 3 * 9,Infix
+43,8 2 ^ 2 / 9 9 ^ *,Postfix
+44,0 + 4 - 9 ^ 5 + 3,Infix
+45,7 5 / 4 + 7 +,Postfix
+46,7 ^ 4 + 6 / 7,Infix
+47,7 / 9 * 0,Infix
+48,5 * 8 + 1 ^ 4 - 9,Infix
+49,6 2 + 1 5 / -,Postfix
+50,2 3 + 3 6 / - 6 5 / +,Postfix
+51,7 0 / 5 * 7 -,Postfix
+52,3 5 ^ 2 6 / -,Postfix
+53,1 7 6 ^ * 5 / 6 /,Postfix
+54,2 - 3 ^ 8 ^ 0,Infix
+55,4 9 9 / 4 1 ^ / 7 / +,Postfix
+56,5 + 6 ^ 1 - 0 + 4,Infix
+57,6 1 - 9 + 7 + 6 + 4 -,Postfix
+58,2 2 + 5 +,Postfix
+59,2 6 - 3 2 / +,Postfix
+60,6 * 0 ^ 4,Infix
+61,7 3 6 8 ^ * 6 * 9 * -,Postfix
+62,3 3 9 / - 8 +,Postfix
+63,1 - 6 - 0 - 5,Infix
+64,0 + 4 ^ 7,Infix
+65,9 4 0 ^ ^ 6 / 5 1 / +,Postfix
+66,2 / 2 / 9,Infix
+67,0 / 3 - 4,Infix
+68,1 - 0 - 8 ^ 8,Infix
+69,6 9 / 8 2 ^ / 0 8 ^ /,Postfix
+70,6 ^ 2 * 1 - 9,Infix
+71,1 5 - 5 0 6 ^ ^ -,Postfix
+72,3 ^ 8 * 9 / 3,Infix
+73,8 8 * 3 8 / +,Postfix
+74,6 + 9 * 0 * 0 + 6,Infix
+75,5 ^ 0 - 0,Infix
+76,6 4 / 4 3 ^ /,Postfix
+77,2 1 5 * 3 * 4 * 6 / +,Postfix
+78,0 1 4 ^ +,Postfix
+79,1 7 ^ 1 8 7 ^ / -,Postfix
+80,8 ^ 5 - 2 - 4,Infix
+81,8 6 6 4 ^ ^ ^ 4 0 * +,Postfix
+82,6 ^ 9 * 1,Infix
+83,7 2 + 3 9 ^ + 5 1 ^ -,Postfix
+84,3 ^ 9 ^ 8 + 3,Infix
+85,5 9 * 4 * 5 -,Postfix
+86,6 / 5 * 6 - 0 * 1,Infix
+87,4 - 0 / 5 ^ 1 - 4,Infix
+88,7 / 1 ^ 6 / 2 / 9 ^ 7,Infix
+89,6 + 9 - 1 - 9,Infix
+90,3 / 8 / 5 * 3 / 0 - 6,Infix
+91,7 4 / 4 - 1 7 * - 1 +,Postfix
+92,1 9 7 ^ *,Postfix
+93,5 - 4 - 0 / 1 / 0 / 5,Infix
+94,1 1 - 2 - 5 - 3 -,Postfix
+95,0 8 6 ^ - 1 - 9 4 ^ -,Postfix
+96,6 / 2 - 9 / 1 ^ 1,Infix
+97,3 * 6 ^ 1 - 8,Infix
+98,8 / 9 / 2 - 7,Infix
+99,5 4 / 6 / 6 * 0 -,Postfix
+100,7 - 5 * 0,Infix
+101,0 / 3 / 1 / 1 ^ 7,Infix
+102,0 1 ^ 4 / 6 0 * + 0 -,Postfix
+103,4 2 ^ 5 1 ^ - 3 3 * +,Postfix
+104,3 2 / 4 -,Postfix
+105,1 7 9 ^ / 0 / 8 * 5 *,Postfix
+106,9 - 5 - 7 * 7,Infix
+107,0 2 2 7 ^ * - 9 1 / -,Postfix
+108,5 1 - 3 5 / 8 * +,Postfix
+109,6 6 1 4 ^ / +,Postfix
+110,1 9 8 ^ / 4 +,Postfix
+111,7 / 2 + 7 - 4 + 9,Infix
+112,1 * 8 - 6 + 2 - 5 / 3,Infix
+113,5 * 6 / 4,Infix
+114,2 4 / 8 5 * +,Postfix
+115,4 ^ 1 - 3 - 5 + 4 - 6,Infix
+116,1 2 + 5 +,Postfix
+117,4 0 * 5 -,Postfix
+118,5 2 6 * + 6 -,Postfix
+119,4 9 / 0 9 * 0 * +,Postfix
+120,4 ^ 3 + 6 ^ 0,Infix
+121,4 6 2 5 ^ ^ 5 / -,Postfix
+122,7 9 ^ 7 * 7 2 ^ * 8 -,Postfix
+123,0 * 1 + 9 / 8,Infix
+124,5 - 8 - 1 * 0 - 2 - 3,Infix
+125,5 / 8 * 4 ^ 6 - 5 ^ 3,Infix
+126,0 ^ 2 - 6 / 8 * 0,Infix
+127,0 0 4 / +,Postfix
+128,1 + 6 * 1 * 4 ^ 8,Infix
+129,1 + 0 - 2 * 0 - 0,Infix
+130,5 5 * 7 * 6 5 / -,Postfix
+131,3 - 7 - 6,Infix
+132,5 6 2 ^ +,Postfix
+133,6 ^ 9 + 5 ^ 9 ^ 9,Infix
+134,2 / 5 * 8 * 1 / 4,Infix
+135,8 8 - 0 5 / 8 9 ^ / -,Postfix
+136,8 0 / 8 4 * 4 * 7 / -,Postfix
+137,6 ^ 5 - 4 ^ 6 / 4 ^ 5,Infix
+138,0 ^ 0 * 8 ^ 9 + 3 ^ 3,Infix
+139,9 5 5 / 2 / +,Postfix
+140,6 5 * 1 3 / + 4 9 * -,Postfix
+141,4 4 7 * +,Postfix
+142,5 0 5 ^ *,Postfix
+143,7 ^ 1 * 8 - 8 - 9 ^ 9,Infix
+144,1 ^ 6 ^ 7 ^ 5 - 5 - 8,Infix
+145,3 1 - 8 + 0 +,Postfix
+146,6 4 ^ 1 / 6 4 ^ /,Postfix
+147,8 - 9 ^ 4 / 2 * 3,Infix
+148,2 9 8 ^ ^,Postfix
+149,1 / 3 - 5 * 8,Infix
+150,6 ^ 5 * 7 / 0 / 8 / 2,Infix
+151,2 1 - 3 -,Postfix
+152,3 6 ^ 1 * 5 + 9 -,Postfix
+153,6 2 / 8 8 / 4 / + 5 +,Postfix
+154,3 8 4 ^ ^ 9 / 5 +,Postfix
+155,5 4 * 0 / 2 * 8 * 3 +,Postfix
+156,1 ^ 2 * 1 ^ 0 + 5 ^ 3,Infix
+157,3 2 8 5 ^ ^ ^ 6 * 4 /,Postfix
+158,0 + 0 / 4 + 0,Infix
+159,5 0 0 * +,Postfix
+160,6 / 4 + 2 * 9,Infix
+161,7 * 1 - 9 - 6 + 8 * 0,Infix
+162,3 9 / 1 5 * +,Postfix
+163,5 - 7 * 2 / 7 ^ 3 / 7,Infix
+164,6 - 0 ^ 0 ^ 6 / 3,Infix
+165,8 + 0 ^ 8 / 0 + 6 + 8,Infix
+166,2 4 1 / 7 * 8 * +,Postfix
+167,3 0 / 5 2 * +,Postfix
+168,9 5 * 1 1 ^ /,Postfix
+169,8 / 8 - 5 - 4,Infix
+170,9 4 + 0 3 / 1 / 9 * +,Postfix
+171,6 7 - 7 - 0 +,Postfix
+172,5 8 / 7 /,Postfix
+173,2 3 8 ^ 2 6 ^ * -,Postfix
+174,1 ^ 1 / 2 - 2,Infix
+175,9 ^ 2 * 4 - 5 + 9,Infix
+176,6 7 0 * - 6 +,Postfix
+177,1 * 2 - 3 ^ 2 * 2,Infix
+178,8 3 0 ^ -,Postfix
+179,6 - 9 / 4,Infix
+180,4 - 1 / 6 ^ 0,Infix
+181,7 * 4 * 7 - 3 * 0 - 0,Infix
+182,3 - 3 * 8 * 4,Infix
+183,3 2 * 1 0 / +,Postfix
+184,9 * 7 + 3 * 4,Infix
+185,0 4 8 ^ ^ 8 +,Postfix
+186,2 5 2 ^ - 7 6 * - 0 -,Postfix
+187,6 9 8 ^ ^,Postfix
+188,1 9 * 0 / 5 / 4 +,Postfix
+189,5 2 - 1 4 * 4 / 6 / -,Postfix
+190,2 ^ 6 / 9 - 1 * 4,Infix
+191,0 4 3 ^ * 1 / 8 -,Postfix
+192,3 - 9 * 4 / 5 * 2 - 1,Infix
+193,0 - 8 / 8 - 2 + 7 - 5,Infix
+194,7 8 6 * - 5 -,Postfix
+195,8 * 8 / 2 / 3 ^ 9 / 2,Infix
+196,7 3 9 ^ *,Postfix
+197,9 ^ 4 ^ 1 / 2 ^ 9,Infix
+198,8 / 0 + 8,Infix
+199,5 3 9 7 ^ * - 3 +,Postfix
+200,4 7 4 / 0 / 2 * + 3 +,Postfix
+201,2 - 9 / 3 / 4 * 6 - 7,Infix
+202,5 0 + 6 -,Postfix
+203,6 * 7 - 3 * 2 + 3,Infix
+204,8 + 7 * 3,Infix
+205,4 - 1 - 2 - 4 + 0 ^ 3,Infix
+206,4 9 - 1 - 4 -,Postfix
+207,5 6 - 0 +,Postfix
+208,4 7 + 8 0 / 2 / +,Postfix
+209,9 ^ 5 + 3 / 4 + 6,Infix
+210,9 ^ 1 ^ 7 + 8 ^ 7,Infix
+211,3 * 6 + 5 + 2 - 8 / 5,Infix
+212,0 * 3 * 7 ^ 6,Infix
+213,5 7 + 2 +,Postfix
+214,7 6 ^ 4 - 1 4 * 7 * -,Postfix
+215,8 7 / 2 7 ^ - 2 -,Postfix
+216,3 / 3 - 5,Infix
+217,2 / 3 * 2 ^ 5,Infix
+218,0 + 5 + 4,Infix
+219,2 * 4 ^ 8 + 0,Infix
+220,8 5 ^ 7 + 9 +,Postfix
+221,6 ^ 7 * 6 - 4,Infix
+222,4 8 ^ 1 4 * -,Postfix
+223,1 ^ 3 ^ 7,Infix
+224,7 / 4 / 4,Infix
+225,0 1 7 * - 1 -,Postfix
+226,2 - 1 + 4 - 2 / 8,Infix
+227,1 7 / 4 4 / -,Postfix
+228,2 + 5 + 8 - 6 / 6 - 7,Infix
+229,5 7 5 ^ -,Postfix
+230,7 + 8 * 4 * 2,Infix
+231,2 - 2 * 6,Infix
+232,6 / 4 + 2 / 3 - 8,Infix
+233,9 * 9 * 7,Infix
+234,2 + 9 + 1,Infix
+235,3 4 ^ 7 * 2 * 3 *,Postfix
+236,2 8 - 4 - 3 +,Postfix
+237,3 5 6 * - 9 -,Postfix
+238,2 ^ 4 * 2 - 5 + 0,Infix
+239,1 / 5 * 2 - 3 + 1 ^ 0,Infix
+240,0 7 / 9 * 2 7 ^ 7 * -,Postfix
+241,4 8 ^ 8 + 0 9 ^ - 5 -,Postfix
+242,0 * 9 ^ 9,Infix
+243,9 4 5 * 3 * 5 / 2 / -,Postfix
+244,2 4 * 0 *,Postfix
+245,4 1 1 ^ / 7 - 8 -,Postfix
+246,9 9 * 9 2 ^ *,Postfix
+247,7 5 1 * 1 7 ^ / 1 * +,Postfix
+248,1 + 3 - 5 / 6 - 4,Infix
+249,6 - 1 ^ 3 - 8 ^ 4 + 1,Infix
+250,4 8 - 4 -,Postfix
+251,5 0 0 ^ / 3 / 9 * 2 -,Postfix
+252,7 3 ^ 5 * 4 * 1 + 1 +,Postfix
+253,6 9 + 8 -,Postfix
+254,2 * 8 + 1 + 6 * 7 + 4,Infix
+255,3 * 7 - 3 / 0 * 8,Infix
+256,0 4 / 7 / 8 * 8 3 / +,Postfix
+257,6 4 ^ 4 -,Postfix
+258,8 2 / 0 / 8 / 7 3 / +,Postfix
+259,5 3 4 ^ +,Postfix
+260,0 4 + 9 - 8 -,Postfix
+261,2 1 - 6 2 / 3 * -,Postfix
+262,1 3 4 6 ^ ^ ^,Postfix
+263,9 7 ^ 3 0 * 0 * +,Postfix
+264,6 8 ^ 3 1 * +,Postfix
+265,6 2 * 9 * 3 / 5 * 2 /,Postfix
+266,5 4 ^ 3 * 6 3 / + 1 +,Postfix
+267,4 8 / 7 /,Postfix
+268,0 4 * 8 /,Postfix
+269,9 ^ 6 ^ 7 * 2,Infix
+270,8 * 5 * 7 * 3,Infix
+271,8 / 9 + 4 ^ 7,Infix
+272,3 4 / 1 3 / +,Postfix
+273,7 8 - 3 5 * - 5 -,Postfix
+274,2 ^ 1 + 6 + 1 - 8 * 8,Infix
+275,6 2 * 4 / 5 * 1 +,Postfix
+276,7 - 2 ^ 5 + 1 - 1,Infix
+277,5 - 7 ^ 5 ^ 6,Infix
+278,2 8 9 ^ ^ 6 -,Postfix
+279,4 * 7 ^ 3 - 0 + 2 ^ 8,Infix
+280,8 0 + 5 +,Postfix
+281,3 / 3 * 2,Infix
+282,4 + 3 ^ 0,Infix
+283,2 3 * 9 0 / - 0 +,Postfix
+284,3 8 - 3 - 0 4 ^ -,Postfix
+285,4 - 3 - 1,Infix
+286,2 3 ^ 7 - 0 +,Postfix
+287,5 5 1 ^ * 2 * 7 -,Postfix
+288,6 0 4 ^ 3 / 5 / 6 / +,Postfix
+289,5 2 * 3 * 9 -,Postfix
+290,3 2 6 / 5 * 8 / - 0 -,Postfix
+291,3 1 * 6 8 0 ^ ^ 3 / -,Postfix
+292,4 7 / 2 -,Postfix
+293,4 4 - 5 +,Postfix
+294,9 8 * 4 / 8 /,Postfix
+295,1 - 3 * 7 - 3,Infix
+296,3 7 8 ^ 4 / -,Postfix
+297,3 0 - 2 9 / - 9 6 ^ -,Postfix
+298,3 4 / 7 8 ^ -,Postfix
+299,7 - 7 / 2 / 0 / 1,Infix
+300,8 1 * 2 * 2 /,Postfix
+301,4 + 7 * 8 ^ 5 / 1 + 0,Infix
+302,1 * 5 ^ 0 ^ 6 - 5,Infix
+303,2 6 * 2 4 ^ / 2 +,Postfix
+304,6 3 5 ^ ^,Postfix
+305,2 7 - 6 + 1 3 * + 1 +,Postfix
+306,1 * 1 / 3 / 8 + 9,Infix
+307,1 * 5 + 4 * 1 + 8 / 7,Infix
+308,2 5 / 8 - 3 - 9 0 ^ +,Postfix
+309,6 5 4 ^ - 7 8 / -,Postfix
+310,4 3 * 1 4 ^ /,Postfix
+311,9 - 8 - 6,Infix
+312,9 + 8 * 5 - 4,Infix
+313,5 / 6 - 1 + 0 + 7,Infix
+314,7 * 1 * 9 / 4 ^ 3,Infix
+315,1 0 - 5 + 8 +,Postfix
+316,5 4 - 8 6 ^ 5 * + 4 +,Postfix
+317,5 5 / 3 *,Postfix
+318,2 9 / 3 * 4 -,Postfix
+319,0 6 6 / 1 / 3 * - 2 -,Postfix
+320,3 - 2 / 1 ^ 0 / 6 / 3,Infix
+321,6 4 ^ 7 6 ^ * 5 /,Postfix
+322,4 ^ 9 ^ 6 / 2 ^ 9,Infix
+323,6 9 + 4 + 1 +,Postfix
+324,5 0 - 5 3 * 2 * +,Postfix
+325,6 2 * 8 / 6 /,Postfix
+326,8 4 3 / - 9 4 * +,Postfix
+327,0 / 1 ^ 3 * 5 * 3 * 5,Infix
+328,8 / 2 ^ 0 ^ 9 - 9 - 2,Infix
+329,4 / 6 + 8 / 6 * 8 / 3,Infix
+330,0 - 0 / 7 + 6 + 0 ^ 5,Infix
+331,0 4 0 ^ * 8 1 / 6 * -,Postfix
+332,1 / 1 ^ 7 - 3 - 5,Infix
+333,0 6 + 9 5 ^ +,Postfix
+334,2 2 * 0 /,Postfix
+335,0 * 2 + 0,Infix
+336,4 1 / 1 8 2 ^ ^ + 4 +,Postfix
+337,7 / 2 / 3 ^ 9 * 8,Infix
+338,7 8 ^ 9 6 ^ 4 / - 4 +,Postfix
+339,4 7 / 6 + 4 - 2 -,Postfix
+340,9 3 - 2 1 / 9 * +,Postfix
+341,4 ^ 9 - 7 / 2 ^ 0,Infix
+342,3 - 7 - 1,Infix
+343,1 3 ^ 4 1 ^ / 9 *,Postfix
+344,8 8 ^ 9 * 4 6 ^ +,Postfix
+345,9 / 4 ^ 8 / 4 * 0 * 4,Infix
+346,7 9 5 4 ^ ^ +,Postfix
+347,0 1 + 7 0 * +,Postfix
+348,6 8 - 0 + 0 +,Postfix
+349,0 / 8 * 4 + 1 - 6,Infix
+350,0 8 / 2 *,Postfix
+351,6 - 8 - 0,Infix
+352,0 5 ^ 4 * 8 +,Postfix
+353,9 * 8 - 3 ^ 7 - 0 ^ 7,Infix
+354,8 3 ^ 9 - 9 -,Postfix
+355,0 7 - 5 7 / 9 2 ^ * -,Postfix
+356,5 ^ 3 + 9 ^ 6 + 4,Infix
+357,1 7 ^ 6 * 9 /,Postfix
+358,3 3 * 4 /,Postfix
+359,4 2 ^ 4 *,Postfix
+360,7 ^ 0 + 5 / 1,Infix
+361,0 / 9 * 9 ^ 0,Infix
+362,2 + 4 + 6,Infix
+363,8 ^ 9 / 4 ^ 5 - 1 - 7,Infix
+364,0 - 8 ^ 7 * 1 - 1 / 3,Infix
+365,0 5 0 ^ + 5 +,Postfix
+366,4 9 * 2 +,Postfix
+367,2 - 9 / 5 / 9 ^ 2,Infix
+368,7 7 + 7 6 / - 9 2 ^ -,Postfix
+369,0 ^ 2 - 3,Infix
+370,8 7 - 7 3 ^ - 1 8 / +,Postfix
+371,3 - 4 * 8,Infix
+372,4 - 2 * 7 * 5 + 7 ^ 1,Infix
+373,2 7 / 5 3 / - 8 -,Postfix
+374,5 4 1 ^ - 1 2 ^ 6 / +,Postfix
+375,1 ^ 4 * 7 ^ 0,Infix
+376,7 - 3 ^ 0 - 5 - 2,Infix
+377,7 2 / 0 * 1 / 6 / 6 -,Postfix
+378,2 * 0 / 2 - 8,Infix
+379,4 8 * 3 5 * - 6 +,Postfix
+380,6 5 7 ^ * 0 / 9 *,Postfix
+381,4 + 6 / 8 + 0 - 9,Infix
+382,4 7 ^ 0 +,Postfix
+383,9 3 1 ^ * 1 *,Postfix
+384,7 ^ 1 + 9,Infix
+385,3 7 ^ 5 /,Postfix
+386,9 - 6 * 4 - 1 * 2 * 1,Infix
+387,7 - 9 / 2,Infix
+388,3 / 3 - 7,Infix
+389,0 / 7 + 4 * 6 * 7,Infix
+390,5 8 - 2 9 * -,Postfix
+391,8 / 9 - 6 + 8,Infix
+392,3 - 7 ^ 0 / 7 * 3 * 5,Infix
+393,4 2 5 / - 3 6 / -,Postfix
+394,7 9 / 7 /,Postfix
+395,0 * 7 * 2 * 9 ^ 9 * 3,Infix
+396,3 9 ^ 6 +,Postfix
+397,7 / 3 + 2 / 9 ^ 7 + 2,Infix
+398,8 * 7 + 0,Infix
+399,6 ^ 2 / 8 + 5 + 8 / 8,Infix
+400,3 3 / 2 * 1 /,Postfix
+401,6 5 * 0 + 3 6 / + 0 -,Postfix
+402,4 4 ^ 9 + 2 4 / -,Postfix
+403,0 5 ^ 6 7 * 1 * -,Postfix
+404,6 / 5 ^ 1 * 8 + 6,Infix
+405,6 4 / 7 * 0 - 2 +,Postfix
+406,0 ^ 3 + 5 + 7,Infix
+407,2 3 2 ^ 3 / +,Postfix
+408,5 2 * 9 8 * - 7 -,Postfix
+409,5 / 1 ^ 5,Infix
+410,6 + 2 / 6 / 2 - 7,Infix
+411,3 / 0 - 7,Infix
+412,5 1 - 4 + 9 - 5 -,Postfix
+413,0 1 ^ 8 1 ^ - 1 + 5 -,Postfix
+414,5 + 9 - 5,Infix
+415,0 3 / 8 2 ^ - 0 2 / -,Postfix
+416,5 / 6 - 0 - 1,Infix
+417,1 ^ 3 + 2,Infix
+418,4 5 - 3 2 ^ -,Postfix
+419,8 / 2 * 7,Infix
+420,3 / 2 - 9 ^ 2 * 6 - 9,Infix
+421,5 5 / 5 4 * 7 5 ^ / -,Postfix
+422,8 7 3 / 7 / 8 / 0 / -,Postfix
+423,1 / 0 / 5,Infix
+424,2 6 ^ 1 1 5 ^ ^ - 7 +,Postfix
+425,7 / 9 + 0 * 7 + 5 * 7,Infix
+426,5 * 5 + 5 * 7,Infix
+427,9 8 6 * - 0 + 8 +,Postfix
+428,5 + 5 - 5 - 9 / 5,Infix
+429,7 8 / 7 -,Postfix
+430,4 6 6 ^ -,Postfix
+431,7 5 - 7 +,Postfix
+432,4 3 3 1 ^ * +,Postfix
+433,3 / 7 * 3,Infix
+434,7 ^ 7 + 2 ^ 5,Infix
+435,1 + 6 * 7 ^ 4 - 3,Infix
+436,4 8 / 5 4 * -,Postfix
+437,6 / 6 / 0 / 5,Infix
+438,0 * 2 - 8 / 3 * 0 ^ 7,Infix
+439,3 + 3 - 7 ^ 5 / 3 + 0,Infix
+440,8 1 7 3 8 0 ^ ^ ^ ^ ^,Postfix
+441,8 8 9 ^ * 6 * 0 0 / -,Postfix
+442,0 * 1 + 8 * 8 / 4 * 0,Infix
+443,2 * 6 * 9 + 0 - 1,Infix
+444,0 / 6 * 3 - 4 - 8,Infix
+445,6 9 6 / 1 / - 9 +,Postfix
+446,5 - 8 / 1 * 7,Infix
+447,8 0 0 / 1 / - 9 +,Postfix
+448,8 / 0 - 4 - 6 / 9 * 3,Infix
+449,8 6 1 / 5 / -,Postfix
+450,9 / 1 - 2 + 7 ^ 6 ^ 1,Infix
+451,8 8 5 3 ^ / - 1 -,Postfix
+452,8 2 5 * + 6 + 8 + 6 -,Postfix
+453,3 + 8 ^ 0 * 9 - 8,Infix
+454,6 8 1 ^ * 0 *,Postfix
+455,0 + 3 + 6 - 7 ^ 1 ^ 1,Infix
+456,8 * 4 ^ 5,Infix
+457,2 ^ 3 ^ 7 - 3,Infix
+458,4 2 3 / +,Postfix
+459,4 + 9 - 3 - 4 / 5 - 1,Infix
+460,6 7 5 * -,Postfix
+461,2 ^ 8 - 6,Infix
+462,1 2 2 ^ - 8 -,Postfix
+463,0 + 0 + 5 * 2 - 4,Infix
+464,5 + 2 / 8 / 3 ^ 5 / 4,Infix
+465,4 + 2 / 4 * 8,Infix
+466,8 - 9 / 5 * 3 - 3 / 5,Infix
+467,0 3 * 4 7 ^ * 1 -,Postfix
+468,8 / 7 - 0,Infix
+469,7 ^ 0 / 0 + 9 + 9,Infix
+470,0 3 0 2 ^ / -,Postfix
+471,2 + 0 ^ 8 / 0 / 7 ^ 1,Infix
+472,5 8 ^ 5 -,Postfix
+473,4 7 / 0 8 1 ^ / + 3 -,Postfix
+474,7 / 5 - 8,Infix
+475,9 * 8 * 3 + 6 - 2 ^ 1,Infix
+476,9 - 1 + 6 - 9,Infix
+477,9 + 2 / 9,Infix
+478,9 8 * 3 7 ^ *,Postfix
+479,2 1 + 3 + 3 9 * +,Postfix
+480,8 - 7 - 9 + 3,Infix
+481,2 3 - 3 0 ^ - 9 -,Postfix
+482,9 3 + 5 +,Postfix
+483,1 1 3 ^ / 1 1 * +,Postfix
+484,3 + 4 ^ 7,Infix
+485,3 * 2 ^ 6 + 6 - 1,Infix
+486,1 + 4 - 5 / 5 * 3 + 5,Infix
+487,6 ^ 9 + 5 ^ 5,Infix
+488,4 7 * 8 9 / 1 / - 0 -,Postfix
+489,8 5 * 7 -,Postfix
+490,9 / 4 + 2,Infix
+491,8 9 / 7 -,Postfix
+492,1 1 * 6 *,Postfix
+493,9 5 8 ^ 9 / - 4 3 ^ +,Postfix
+494,6 0 0 * -,Postfix
+495,9 ^ 5 / 3 / 8,Infix
+496,5 4 ^ 6 8 5 ^ / +,Postfix
+497,2 / 3 / 7 + 8 ^ 5 * 8,Infix
+498,2 / 5 ^ 0 - 4 + 7,Infix
+499,2 * 3 + 5,Infix
+500,5 1 ^ 9 * 2 +,Postfix
+501,1 + 2 / 1 + 7,Infix
+502,3 9 0 ^ + 3 -,Postfix
+503,2 5 7 ^ ^ 2 / 4 /,Postfix
+504,2 * 3 * 3 / 2,Infix
+505,7 ^ 3 + 6,Infix
+506,7 - 2 / 8 / 3 + 1 + 7,Infix
+507,9 4 / 6 7 ^ - 5 +,Postfix
+508,8 + 0 ^ 6,Infix
+509,8 / 6 - 4 * 6,Infix
+510,3 2 7 ^ * 7 6 7 ^ ^ +,Postfix
+511,0 6 5 * + 4 -,Postfix
+512,7 / 0 * 7 / 5 + 1 + 1,Infix
+513,7 / 5 * 3,Infix
+514,7 7 / 5 -,Postfix
+515,0 2 - 0 -,Postfix
+516,3 - 2 - 3 ^ 6 + 5 / 5,Infix
+517,6 + 9 ^ 1 / 9 / 8 * 9,Infix
+518,2 1 / 2 / 1 - 0 5 / -,Postfix
+519,1 3 / 0 0 / -,Postfix
+520,8 / 0 - 0 + 7 + 4 + 2,Infix
+521,3 9 4 ^ + 0 8 / +,Postfix
+522,9 0 * 7 5 * 0 * + 8 -,Postfix
+523,3 1 ^ 9 /,Postfix
+524,0 5 6 / -,Postfix
+525,3 * 4 / 5 ^ 7,Infix
+526,8 7 4 * - 7 -,Postfix
+527,8 + 8 ^ 5 * 7 + 3,Infix
+528,8 - 0 - 5 + 2,Infix
+529,3 - 9 / 1 * 2 / 5 * 5,Infix
+530,7 ^ 6 + 9 + 9 * 6,Infix
+531,2 + 9 * 6 + 1,Infix
+532,6 1 - 5 + 4 -,Postfix
+533,4 + 1 / 4,Infix
+534,7 2 ^ 2 * 3 +,Postfix
+535,5 / 6 + 2,Infix
+536,8 * 9 - 9 * 7 - 0 ^ 0,Infix
+537,6 4 9 / +,Postfix
+538,8 5 * 8 + 9 4 * +,Postfix
+539,5 8 ^ 2 +,Postfix
+540,0 2 6 ^ * 4 /,Postfix
+541,3 4 1 ^ * 9 5 ^ * 1 *,Postfix
+542,9 0 / 1 / 9 1 / - 5 -,Postfix
+543,7 7 2 * 5 3 ^ / - 4 +,Postfix
+544,3 5 ^ 2 + 2 -,Postfix
+545,6 - 4 * 3 ^ 3,Infix
+546,6 + 9 * 5,Infix
+547,8 0 / 7 2 * +,Postfix
+548,5 - 4 / 2,Infix
+549,8 ^ 4 - 4 - 7 / 8,Infix
+550,6 ^ 0 - 6 + 2,Infix
+551,0 6 - 9 +,Postfix
+552,5 * 0 - 9 - 2 * 0 * 9,Infix
+553,2 3 ^ 3 +,Postfix
+554,5 9 3 * +,Postfix
+555,9 - 3 / 8 / 4 + 3,Infix
+556,5 1 - 8 4 / 8 / +,Postfix
+557,0 * 0 - 4 / 5,Infix
+558,6 9 ^ 1 * 9 0 ^ * 5 /,Postfix
+559,3 * 3 + 1,Infix
+560,6 9 * 9 +,Postfix
+561,7 - 7 - 2 * 1 + 2,Infix
+562,9 + 4 + 6 - 9,Infix
+563,8 0 * 5 +,Postfix
+564,2 - 5 - 5,Infix
+565,9 / 3 - 3 ^ 2 + 1,Infix
+566,1 8 9 ^ 3 * 0 * - 1 -,Postfix
+567,6 8 2 / + 4 -,Postfix
+568,1 5 1 / 4 / 4 / +,Postfix
+569,0 9 * 2 / 1 / 2 8 * +,Postfix
+570,7 ^ 7 ^ 5,Infix
+571,7 - 9 ^ 3 - 2,Infix
+572,5 - 1 + 0,Infix
+573,5 2 2 ^ * 1 7 * 0 / -,Postfix
+574,5 - 0 - 7 ^ 0 - 1,Infix
+575,9 * 0 * 5 - 5,Infix
+576,1 / 8 / 3 * 2 * 1 * 1,Infix
+577,2 1 9 ^ 0 * 3 / - 3 -,Postfix
+578,5 0 9 ^ / 0 * 6 9 * -,Postfix
+579,1 7 7 / - 0 2 ^ - 6 -,Postfix
+580,8 1 + 1 +,Postfix
+581,0 8 / 1 / 3 4 ^ /,Postfix
+582,0 3 5 ^ *,Postfix
+583,1 1 / 3 + 1 +,Postfix
+584,8 / 7 - 5 ^ 0 / 2,Infix
+585,0 + 9 / 4,Infix
+586,4 6 / 5 8 * +,Postfix
+587,0 6 * 2 *,Postfix
+588,3 / 5 - 9 ^ 4,Infix
+589,2 7 / 3 * 9 9 ^ * 5 /,Postfix
+590,2 - 1 / 1,Infix
+591,6 5 8 * + 1 8 / -,Postfix
+592,8 - 0 + 2,Infix
+593,9 / 9 * 6 - 2 / 4,Infix
+594,4 6 ^ 0 / 6 *,Postfix
+595,6 + 2 ^ 5,Infix
+596,2 ^ 1 * 6 ^ 5,Infix
+597,1 / 6 ^ 5 ^ 1,Infix
+598,1 / 5 ^ 7 - 0,Infix
+599,7 ^ 6 + 3 ^ 7 + 1 * 8,Infix
+600,8 6 0 ^ /,Postfix
+601,1 - 3 * 0 ^ 5,Infix
+602,9 4 * 9 * 5 *,Postfix
+603,2 2 4 7 ^ / 4 * -,Postfix
+604,6 + 6 ^ 8 / 0,Infix
+605,0 4 3 4 ^ * 3 * 7 / +,Postfix
+606,8 0 * 8 * 1 -,Postfix
+607,1 8 / 7 - 1 + 6 0 ^ -,Postfix
+608,8 4 5 ^ 7 / 2 * +,Postfix
+609,9 1 / 1 -,Postfix
+610,0 - 8 + 5,Infix
+611,3 / 3 + 1 - 6 / 5 * 2,Infix
+612,9 8 ^ 2 / 6 +,Postfix
+613,3 8 1 / -,Postfix
+614,0 6 * 2 0 / -,Postfix
+615,9 3 0 6 7 ^ ^ ^ ^,Postfix
+616,4 * 9 - 6 ^ 9,Infix
+617,4 / 0 + 6,Infix
+618,3 / 1 + 3 * 2 - 1 + 0,Infix
+619,0 * 1 * 3 - 0 / 1,Infix
+620,7 4 * 0 + 5 7 ^ +,Postfix
+621,5 - 2 - 9 / 9,Infix
+622,7 3 7 ^ /,Postfix
+623,1 - 5 + 5 * 7 + 8 * 3,Infix
+624,7 ^ 0 - 3 - 2,Infix
+625,9 0 0 8 9 6 ^ ^ ^ / +,Postfix
+626,3 / 0 - 3 / 5,Infix
+627,1 / 4 + 8 ^ 1 * 5,Infix
+628,8 1 / 7 + 2 1 / -,Postfix
+629,1 - 9 * 2 * 2 - 0,Infix
+630,3 - 4 * 9,Infix
+631,1 7 / 0 + 4 -,Postfix
+632,2 - 5 * 0,Infix
+633,5 / 0 ^ 5 + 0,Infix
+634,8 ^ 7 * 1 ^ 6 - 0 - 9,Infix
+635,8 1 7 * 0 8 1 ^ ^ / -,Postfix
+636,2 3 ^ 5 -,Postfix
+637,6 ^ 2 / 9 / 4 ^ 6,Infix
+638,1 1 + 9 5 ^ - 9 +,Postfix
+639,4 5 9 1 5 ^ ^ ^ 5 / -,Postfix
+640,7 ^ 5 - 8 - 5,Infix
+641,9 4 9 / 1 * -,Postfix
+642,1 + 6 ^ 5 / 3 * 8,Infix
+643,5 + 3 + 9,Infix
+644,9 ^ 6 / 7 ^ 4 + 5,Infix
+645,7 * 9 - 1 - 1 * 6,Infix
+646,3 0 8 ^ 0 1 9 ^ ^ * -,Postfix
+647,5 + 3 - 0 ^ 7,Infix
+648,0 * 9 / 1 / 1,Infix
+649,7 + 0 / 5 + 4,Infix
+650,2 6 + 5 -,Postfix
+651,6 5 ^ 4 * 9 * 7 *,Postfix
+652,0 3 ^ 1 / 4 -,Postfix
+653,6 5 * 4 - 2 +,Postfix
+654,0 3 ^ 3 9 ^ 7 / 3 * +,Postfix
+655,8 0 5 * 0 * - 3 +,Postfix
+656,2 ^ 7 / 4 - 3,Infix
+657,3 3 / 3 -,Postfix
+658,0 2 2 * 6 / 1 8 ^ * +,Postfix
+659,2 + 6 ^ 7 - 1 + 1,Infix
+660,1 5 3 * 0 / 4 * 0 / -,Postfix
+661,6 7 / 7 / 9 /,Postfix
+662,3 * 8 / 4 * 4,Infix
+663,9 8 + 8 +,Postfix
+664,5 * 7 - 8,Infix
+665,1 + 5 * 4 / 8,Infix
+666,6 6 * 9 * 5 * 2 -,Postfix
+667,1 / 8 / 4 + 0,Infix
+668,0 ^ 7 ^ 9,Infix
+669,5 1 * 6 6 ^ -,Postfix
+670,9 4 5 * -,Postfix
+671,9 * 0 * 3 * 2,Infix
+672,3 / 1 / 7 / 6 + 8,Infix
+673,7 1 ^ 4 /,Postfix
+674,0 1 * 6 2 ^ - 6 4 * +,Postfix
+675,5 8 8 7 ^ / - 0 +,Postfix
+676,6 + 4 * 2 + 2 / 9,Infix
+677,4 9 ^ 5 1 / + 7 3 / -,Postfix
+678,0 + 8 ^ 1 + 3 ^ 4 / 8,Infix
+679,6 0 1 * 0 / 1 / 6 / +,Postfix
+680,0 4 - 7 5 ^ 6 * - 8 +,Postfix
+681,9 / 9 * 1 / 7,Infix
+682,5 * 1 ^ 4 / 1 ^ 0,Infix
+683,7 3 - 1 3 * +,Postfix
+684,6 0 / 9 7 / 0 * 5 / -,Postfix
+685,4 8 / 7 - 7 -,Postfix
+686,0 / 5 * 0 - 2 + 3,Infix
+687,3 8 9 ^ * 6 7 0 ^ ^ +,Postfix
+688,2 7 ^ 1 / 6 * 4 /,Postfix
+689,9 * 6 + 1 + 2 * 4 * 6,Infix
+690,5 - 8 * 4,Infix
+691,5 6 / 2 / 2 / 6 9 ^ /,Postfix
+692,9 0 1 * - 0 0 ^ 3 * -,Postfix
+693,6 4 7 ^ ^ 8 +,Postfix
+694,6 - 5 - 5 - 3 / 7,Infix
+695,5 5 3 ^ ^ 9 -,Postfix
+696,8 * 0 + 4 * 1 - 8 * 8,Infix
+697,6 5 6 * + 4 - 8 +,Postfix
+698,9 ^ 0 / 0 * 0 + 8,Infix
+699,4 1 * 0 -,Postfix
+700,0 / 8 * 2,Infix
+701,8 7 * 2 * 7 7 / -,Postfix
+702,9 - 7 / 2 * 9 + 2,Infix
+703,2 ^ 2 / 0 - 6,Infix
+704,4 * 6 / 9 - 9 ^ 5,Infix
+705,3 6 - 0 0 * +,Postfix
+706,7 5 ^ 6 5 ^ /,Postfix
+707,4 8 2 * + 2 + 0 + 5 +,Postfix
+708,8 - 7 * 5,Infix
+709,1 / 4 / 7 * 2 / 8,Infix
+710,1 ^ 3 / 1,Infix
+711,5 2 0 9 ^ ^ ^ 7 +,Postfix
+712,3 7 * 5 - 1 6 * 2 * -,Postfix
+713,4 5 - 4 4 * +,Postfix
+714,0 8 / 2 * 3 9 ^ - 1 -,Postfix
+715,8 + 9 / 1 - 0 ^ 0,Infix
+716,2 4 0 ^ - 7 + 3 5 * -,Postfix
+717,6 + 6 / 3 + 0 + 6 * 5,Infix
+718,3 / 7 * 5 ^ 4,Infix
+719,6 / 8 ^ 3 ^ 5,Infix
+720,9 6 ^ 2 / 6 +,Postfix
+721,7 5 ^ 9 +,Postfix
+722,6 ^ 9 * 8 - 5 / 2,Infix
+723,3 * 3 / 9 / 7 + 2,Infix
+724,3 + 4 - 3 * 1,Infix
+725,6 * 3 / 3,Infix
+726,2 2 ^ 3 * 1 *,Postfix
+727,0 5 4 * + 2 -,Postfix
+728,1 0 ^ 4 +,Postfix
+729,2 ^ 4 ^ 9 + 2 + 5 - 6,Infix
+730,0 8 7 7 ^ ^ ^ 7 8 ^ *,Postfix
+731,2 7 + 3 7 * + 2 -,Postfix
+732,3 9 1 / 4 / +,Postfix
+733,8 1 7 * + 5 7 * -,Postfix
+734,1 * 7 - 4,Infix
+735,0 / 0 - 3,Infix
+736,6 6 ^ 3 6 ^ / 5 / 5 -,Postfix
+737,1 + 1 + 5,Infix
+738,7 - 9 * 0 * 9 / 4 - 8,Infix
+739,1 - 2 - 1 * 7,Infix
+740,1 1 5 ^ +,Postfix
+741,2 * 9 + 8 + 4,Infix
+742,0 ^ 9 + 9,Infix
+743,3 9 / 2 /,Postfix
+744,4 * 6 * 6 * 1 + 2 * 8,Infix
+745,0 + 7 - 9 ^ 2 + 8 - 5,Infix
+746,8 4 3 ^ *,Postfix
+747,9 ^ 1 * 1 - 6,Infix
+748,5 2 8 ^ *,Postfix
+749,0 9 8 1 7 ^ ^ ^ *,Postfix
+750,4 - 5 ^ 6 + 0 - 8,Infix
+751,8 - 8 ^ 3 - 1,Infix
+752,3 * 5 * 7 - 8 / 5 * 8,Infix
+753,8 / 9 * 6 - 7 * 3 - 0,Infix
+754,4 1 / 4 / 4 *,Postfix
+755,4 - 4 / 5,Infix
+756,9 1 - 7 -,Postfix
+757,2 5 8 / 7 8 ^ * + 1 -,Postfix
+758,4 4 * 6 /,Postfix
+759,4 ^ 3 ^ 1 * 2,Infix
+760,4 * 0 - 2,Infix
+761,1 / 6 / 1,Infix
+762,5 - 4 + 2,Infix
+763,8 ^ 3 * 0,Infix
+764,9 2 2 ^ +,Postfix
+765,9 5 7 ^ 1 * -,Postfix
+766,4 / 9 / 1 / 3 + 0 ^ 2,Infix
+767,3 - 1 - 5 - 3 * 8 / 7,Infix
+768,2 7 6 2 ^ / + 2 -,Postfix
+769,0 8 8 ^ ^ 1 / 4 4 / +,Postfix
+770,3 9 - 8 +,Postfix
+771,0 5 5 * +,Postfix
+772,9 3 - 6 -,Postfix
+773,5 + 9 * 4 + 0 / 1,Infix
+774,7 / 3 * 0 + 8,Infix
+775,7 5 * 6 /,Postfix
+776,1 1 * 5 - 9 - 8 7 / -,Postfix
+777,8 3 * 8 + 4 2 ^ -,Postfix
+778,0 5 6 2 ^ / +,Postfix
+779,7 * 2 - 0 / 2 ^ 0 ^ 7,Infix
+780,6 8 1 ^ ^ 2 0 * 8 * -,Postfix
+781,3 ^ 4 / 2 + 8,Infix
+782,6 + 8 / 2 + 8 * 6 - 5,Infix
+783,5 5 1 9 ^ ^ / 9 * 7 *,Postfix
+784,2 * 9 / 9 + 8,Infix
+785,3 6 ^ 2 - 1 4 / -,Postfix
+786,9 / 7 * 3 * 7 + 2,Infix
+787,5 - 8 * 7 + 3 ^ 8 ^ 6,Infix
+788,9 3 0 / + 5 + 2 +,Postfix
+789,0 7 * 6 1 / 8 / -,Postfix
+790,9 8 + 7 4 / -,Postfix
+791,1 - 3 * 8 ^ 2 * 1,Infix
+792,7 * 3 / 3 / 4 - 4,Infix
+793,4 - 2 * 9 * 6 ^ 7,Infix
+794,2 4 / 5 - 2 2 * - 8 -,Postfix
+795,2 ^ 3 / 9 + 2 + 5 - 7,Infix
+796,7 / 6 / 4 * 8 - 4,Infix
+797,6 9 + 9 -,Postfix
+798,9 4 4 * - 4 +,Postfix
+799,7 ^ 2 - 4,Infix
+800,0 8 * 1 2 / +,Postfix
+801,4 4 ^ 8 -,Postfix
+802,3 6 1 / 7 * - 9 +,Postfix
+803,9 / 5 * 4 ^ 8 ^ 6 ^ 1,Infix
+804,7 * 6 / 5 - 7 * 3,Infix
+805,2 * 4 - 4 + 9 / 2,Infix
+806,4 2 5 * - 1 +,Postfix
+807,1 / 8 * 0,Infix
+808,9 / 9 + 0,Infix
+809,0 1 ^ 6 *,Postfix
+810,3 1 / 6 0 7 ^ ^ / 0 *,Postfix
+811,7 * 7 ^ 3,Infix
+812,2 * 9 ^ 9 + 1 + 9,Infix
+813,1 / 9 - 6 * 7 + 6 + 1,Infix
+814,0 / 0 + 9,Infix
+815,8 - 8 / 1 / 2 * 7,Infix
+816,1 * 6 ^ 0 / 8 / 8 / 9,Infix
+817,1 ^ 1 * 6,Infix
+818,4 + 5 * 6 / 0 / 9 ^ 5,Infix
+819,1 2 * 7 -,Postfix
+820,1 - 1 ^ 7 ^ 9 - 6,Infix
+821,5 6 1 6 ^ ^ ^,Postfix
+822,5 1 + 4 6 ^ +,Postfix
+823,2 6 0 ^ * 6 / 4 -,Postfix
+824,1 - 9 ^ 9 * 4,Infix
+825,6 6 ^ 2 + 3 5 ^ - 9 +,Postfix
+826,3 1 / 4 /,Postfix
+827,3 2 ^ 0 * 8 /,Postfix
+828,6 / 0 ^ 9,Infix
+829,7 - 3 / 5 * 1 / 9 * 4,Infix
+830,6 + 7 - 2 + 0 - 6,Infix
+831,3 * 0 ^ 0 / 4 - 5 + 8,Infix
+832,0 4 + 0 - 5 +,Postfix
+833,5 3 4 9 ^ ^ ^ 1 / 9 /,Postfix
+834,5 5 0 / - 4 +,Postfix
+835,5 6 ^ 3 2 / 7 * -,Postfix
+836,7 ^ 0 - 9 + 2 ^ 1,Infix
+837,1 2 1 * - 8 + 8 +,Postfix
+838,0 2 6 ^ + 2 3 / 2 * +,Postfix
+839,3 / 6 * 0,Infix
+840,0 4 9 ^ *,Postfix
+841,9 * 7 / 8 / 6 ^ 2,Infix
+842,3 2 ^ 2 5 / +,Postfix
+843,8 7 - 1 -,Postfix
+844,7 1 ^ 8 - 1 1 * -,Postfix
+845,0 8 / 2 * 3 * 4 +,Postfix
+846,2 7 7 ^ /,Postfix
+847,1 5 * 2 * 9 * 2 -,Postfix
+848,1 7 * 4 +,Postfix
+849,3 3 * 3 7 / 6 / -,Postfix
+850,2 + 6 / 6 + 5,Infix
+851,5 1 * 4 / 6 9 2 ^ ^ /,Postfix
+852,8 8 * 7 / 4 7 ^ * 7 -,Postfix
+853,5 ^ 1 ^ 1 - 7,Infix
+854,8 - 5 - 9,Infix
+855,1 ^ 2 + 1 * 8 * 5,Infix
+856,3 / 2 + 6 ^ 3 ^ 0,Infix
+857,6 / 0 * 6 / 9 - 9 ^ 0,Infix
+858,4 5 3 ^ * 6 *,Postfix
+859,1 / 4 ^ 9,Infix
+860,8 ^ 3 - 5,Infix
+861,2 1 2 / +,Postfix
+862,6 * 3 * 9 * 0,Infix
+863,2 + 2 ^ 5,Infix
+864,6 0 / 5 -,Postfix
+865,6 3 9 / 3 / 8 * +,Postfix
+866,2 ^ 9 + 1 / 4 ^ 7 + 8,Infix
+867,1 1 * 2 1 * + 8 9 / +,Postfix
+868,3 0 0 ^ - 2 -,Postfix
+869,7 5 8 ^ 7 * +,Postfix
+870,3 0 * 8 -,Postfix
+871,4 * 4 + 4,Infix
+872,0 / 8 + 7,Infix
+873,6 ^ 5 * 4 / 8,Infix
+874,2 + 2 * 8 ^ 1 * 2 / 4,Infix
+875,0 - 8 * 3 / 3,Infix
+876,5 6 - 2 + 5 -,Postfix
+877,8 ^ 7 + 3 * 7 / 1 / 1,Infix
+878,4 5 * 3 / 6 3 ^ /,Postfix
+879,0 9 ^ 7 9 * +,Postfix
+880,0 ^ 5 - 8,Infix
+881,5 * 3 - 9 + 3,Infix
+882,8 + 3 * 8 * 3 + 4,Infix
+883,7 2 / 1 + 4 4 ^ - 4 +,Postfix
+884,3 + 2 + 6 * 9 - 9 * 8,Infix
+885,7 9 6 * + 6 -,Postfix
+886,6 / 9 * 3 - 8 ^ 6,Infix
+887,8 5 - 3 9 ^ -,Postfix
+888,8 * 6 ^ 6 * 3 / 1 * 0,Infix
+889,2 8 ^ 4 9 * - 1 + 5 +,Postfix
+890,1 * 5 - 8,Infix
+891,3 9 ^ 1 - 2 7 ^ 5 * -,Postfix
+892,4 ^ 6 * 9 * 2 + 3 * 6,Infix
+893,5 * 3 + 6 * 7,Infix
+894,2 9 / 9 * 1 +,Postfix
+895,7 6 2 / + 3 +,Postfix
+896,9 2 6 8 ^ ^ / 0 8 ^ /,Postfix
+897,8 0 ^ 1 1 / -,Postfix
+898,0 * 3 * 8 * 7,Infix
+899,3 8 / 0 9 ^ + 1 +,Postfix
+900,7 4 / 6 4 ^ - 1 2 ^ +,Postfix
+901,9 1 ^ 9 * 4 / 5 -,Postfix
+902,6 1 3 ^ +,Postfix
+903,3 0 * 6 2 * - 2 + 6 -,Postfix
+904,5 9 4 ^ * 5 / 7 +,Postfix
+905,6 2 1 ^ 6 * - 6 5 / +,Postfix
+906,7 / 1 * 8 ^ 7,Infix
+907,5 2 / 3 * 8 - 4 - 5 +,Postfix
+908,0 * 8 ^ 8 ^ 1,Infix
+909,2 6 * 1 * 1 * 3 - 1 -,Postfix
+910,6 * 4 ^ 1 * 6 * 8,Infix
+911,8 9 ^ 7 / 9 * 8 +,Postfix
+912,0 - 4 ^ 6 * 5,Infix
+913,0 7 * 6 4 / +,Postfix
+914,0 - 7 - 6 * 2 ^ 5 / 3,Infix
+915,9 * 0 ^ 0,Infix
+916,8 7 ^ 8 5 / - 5 + 4 +,Postfix
+917,7 + 3 * 6 * 5 ^ 1 + 7,Infix
+918,1 ^ 7 / 8 ^ 5 - 4 / 6,Infix
+919,8 9 + 7 +,Postfix
+920,6 + 0 / 6,Infix
+921,4 * 5 - 0 * 8 + 9 + 1,Infix
+922,1 4 1 / + 9 -,Postfix
+923,0 - 7 + 5,Infix
+924,8 2 ^ 8 / 7 6 / 4 * +,Postfix
+925,9 / 9 + 7,Infix
+926,7 / 4 + 1,Infix
+927,9 / 7 - 2 - 2 / 3,Infix
+928,2 4 7 / - 6 +,Postfix
+929,7 1 ^ 8 * 8 /,Postfix
+930,2 2 5 ^ *,Postfix
+931,6 5 1 ^ / 2 +,Postfix
+932,4 - 9 ^ 4 ^ 8,Infix
+933,1 8 7 ^ + 3 + 6 - 0 +,Postfix
+934,4 5 + 0 -,Postfix
+935,2 4 5 ^ -,Postfix
+936,5 6 ^ 9 +,Postfix
+937,9 * 3 - 5 + 7 * 2,Infix
+938,2 7 5 9 ^ ^ * 0 /,Postfix
+939,9 5 ^ 9 / 0 8 / +,Postfix
+940,7 + 4 - 7 * 2,Infix
+941,0 3 1 ^ ^ 6 -,Postfix
+942,9 / 2 ^ 4,Infix
+943,9 ^ 3 ^ 0 - 7 * 3,Infix
+944,8 7 1 * 5 4 ^ / +,Postfix
+945,9 / 2 * 4 * 6,Infix
+946,1 4 * 7 * 8 /,Postfix
+947,2 5 4 ^ ^,Postfix
+948,4 6 7 ^ + 7 - 5 + 0 +,Postfix
+949,6 + 0 + 3 + 7 / 6,Infix
+950,4 6 + 8 +,Postfix
+951,0 9 1 8 ^ / +,Postfix
+952,4 + 4 + 0,Infix
+953,4 2 / 6 8 * -,Postfix
+954,7 1 ^ 4 + 7 +,Postfix
+955,9 + 8 - 6 + 3 ^ 6,Infix
+956,6 8 - 5 -,Postfix
+957,7 + 0 ^ 4 / 1 - 4,Infix
+958,1 + 5 / 7 / 2 ^ 3 + 3,Infix
+959,3 7 3 ^ /,Postfix
+960,6 5 + 4 -,Postfix
+961,7 5 / 4 * 8 2 ^ * 6 /,Postfix
+962,4 4 0 3 ^ ^ 1 * - 8 +,Postfix
+963,0 - 0 + 0,Infix
+964,5 + 5 ^ 1,Infix
+965,2 / 7 / 1 / 9,Infix
+966,0 / 6 + 5 * 1 / 0,Infix
+967,3 * 9 * 7 - 1,Infix
+968,9 9 - 7 +,Postfix
+969,2 * 3 * 7,Infix
+970,8 + 2 + 3 ^ 1 * 1 - 0,Infix
+971,8 5 / 3 +,Postfix
+972,3 4 - 2 -,Postfix
+973,1 3 / 1 - 1 - 2 + 3 +,Postfix
+974,1 7 * 0 1 / - 8 5 / +,Postfix
+975,2 0 2 * + 2 + 5 +,Postfix
+976,1 0 2 ^ 4 2 7 ^ ^ / +,Postfix
+977,9 0 + 4 0 ^ 0 / -,Postfix
+978,5 / 6 / 5 - 5 * 3 - 8,Infix
+979,2 8 + 8 +,Postfix
+980,3 5 + 4 3 ^ + 9 1 * -,Postfix
+981,5 - 2 + 3,Infix
+982,8 5 1 / - 5 +,Postfix
+983,5 ^ 2 ^ 0,Infix
+984,3 2 + 6 0 / -,Postfix
+985,8 2 / 2 - 3 3 ^ - 6 +,Postfix
+986,6 / 9 * 0 / 6,Infix
+987,8 9 ^ 3 0 ^ -,Postfix
+988,8 6 / 6 *,Postfix
+989,7 4 * 7 * 3 + 6 -,Postfix
+990,9 / 2 + 0 + 5 / 5,Infix
+991,3 - 4 * 8 * 5 * 2,Infix
+992,9 ^ 1 * 9,Infix
+993,6 / 6 / 3,Infix
+994,7 9 * 0 * 0 *,Postfix
+995,0 / 3 + 1 / 8,Infix
+996,5 - 5 - 0 ^ 7 * 6 * 1,Infix
+997,7 + 7 / 9 ^ 3 / 5 * 2,Infix
+998,7 - 3 - 4 + 8 * 1,Infix
+999,9 8 / 2 +,Postfix
+1000,5 6 ^ 3 / 9 - 9 2 * -,Postfix

@@ -1,0 +1,2004 @@
+ExprID,Expression,Type
+1,4+95,Infix
+2,32 29 +,Postfix
+3,95+14,Infix
+4,76+55,Infix
+5,4+12,Infix
+6,30+65,Infix
+7,72+26,Infix
+8,29 58 +,Postfix
+9,1 98 +,Postfix
+10,90+55,Infix
+11,36 20 +,Postfix
+12,98+44,Infix
+13,12+49,Infix
+14,46+45,Infix
+15,6 94 +,Postfix
+16,69 16 +,Postfix
+17,11 71 +,Postfix
+18,81 80 +,Postfix
+19,74 25 +,Postfix
+20,6+85,Infix
+21,99+38,Infix
+22,30+13,Infix
+23,36 59 +,Postfix
+24,21 48 +,Postfix
+25,27 86 +,Postfix
+26,90 88 +,Postfix
+27,78+82,Infix
+28,69+94,Infix
+29,21+60,Infix
+30,35 82 +,Postfix
+31,88+42,Infix
+32,30+5,Infix
+33,52 35 +,Postfix
+34,28+73,Infix
+35,28 84 +,Postfix
+36,51 83 +,Postfix
+37,19 34 +,Postfix
+38,32+96,Infix
+39,96 75 +,Postfix
+40,75 52 +,Postfix
+41,29 18 +,Postfix
+42,12 97 +,Postfix
+43,15+20,Infix
+44,88+55,Infix
+45,50+49,Infix
+46,68 33 +,Postfix
+47,88+93,Infix
+48,88+69,Infix
+49,99 83 +,Postfix
+50,15 38 +,Postfix
+51,21 59 +,Postfix
+52,93+93,Infix
+53,65 98 +,Postfix
+54,65+14,Infix
+55,82 65 +,Postfix
+56,20+48,Infix
+57,70+68,Infix
+58,77+42,Infix
+59,3 15 +,Postfix
+60,40 31 +,Postfix
+61,31+73,Infix
+62,11+94,Infix
+63,9 98 +,Postfix
+64,17+85,Infix
+65,71 22 +,Postfix
+66,68 78 +,Postfix
+67,28 70 +,Postfix
+68,92+40,Infix
+69,86 84 +,Postfix
+70,57 67 +,Postfix
+71,16 32 +,Postfix
+72,9+44,Infix
+73,76+71,Infix
+74,76+29,Infix
+75,10+91,Infix
+76,30+9,Infix
+77,43+10,Infix
+78,36+86,Infix
+79,28 70 +,Postfix
+80,93+74,Infix
+81,32 61 +,Postfix
+82,25 13 +,Postfix
+83,85+56,Infix
+84,55 53 +,Postfix
+85,94 7 +,Postfix
+86,8+52,Infix
+87,14 32 +,Postfix
+88,25+69,Infix
+89,18 55 +,Postfix
+90,36+60,Infix
+91,10+57,Infix
+92,7+84,Infix
+93,12+97,Infix
+94,22+53,Infix
+95,62 28 +,Postfix
+96,8 22 +,Postfix
+97,1 50 +,Postfix
+98,59 37 +,Postfix
+99,90 94 +,Postfix
+100,20 25 +,Postfix
+101,28 8 +,Postfix
+102,96+41,Infix
+103,7+75,Infix
+104,65 68 +,Postfix
+105,8+66,Infix
+106,24+9,Infix
+107,87+31,Infix
+108,16 73 +,Postfix
+109,75+77,Infix
+110,80+11,Infix
+111,85 75 +,Postfix
+112,34 27 +,Postfix
+113,31 34 +,Postfix
+114,17 86 +,Postfix
+115,59 41 +,Postfix
+116,2+59,Infix
+117,10+69,Infix
+118,65+34,Infix
+119,45+9,Infix
+120,48+37,Infix
+121,57+70,Infix
+122,79 84 +,Postfix
+123,86+71,Infix
+124,85 14 +,Postfix
+125,34+15,Infix
+126,96+71,Infix
+127,35+37,Infix
+128,92+44,Infix
+129,88+82,Infix
+130,65 63 +,Postfix
+131,7 12 +,Postfix
+132,36 6 +,Postfix
+133,43+99,Infix
+134,82+34,Infix
+135,95+57,Infix
+136,72 2 +,Postfix
+137,10+89,Infix
+138,70+5,Infix
+139,75 71 +,Postfix
+140,56+17,Infix
+141,40+47,Infix
+142,46+27,Infix
+143,86+14,Infix
+144,72 53 +,Postfix
+145,31+21,Infix
+146,53+4,Infix
+147,95+43,Infix
+148,86 95 +,Postfix
+149,35+21,Infix
+150,49+5,Infix
+151,29 26 +,Postfix
+152,45 40 +,Postfix
+153,29+4,Infix
+154,52+43,Infix
+155,9 99 +,Postfix
+156,45 83 +,Postfix
+157,87 69 +,Postfix
+158,4 15 +,Postfix
+159,23 75 +,Postfix
+160,5 14 +,Postfix
+161,45 94 +,Postfix
+162,56 78 +,Postfix
+163,50+74,Infix
+164,33+6,Infix
+165,1 67 +,Postfix
+166,47+56,Infix
+167,86+43,Infix
+168,85 16 +,Postfix
+169,65 40 +,Postfix
+170,42 52 +,Postfix
+171,71 17 +,Postfix
+172,54+86,Infix
+173,87 96 +,Postfix
+174,79+73,Infix
+175,52 71 +,Postfix
+176,39+37,Infix
+177,56+75,Infix
+178,60 57 +,Postfix
+179,87 28 +,Postfix
+180,95 22 +,Postfix
+181,37+66,Infix
+182,12 97 +,Postfix
+183,87+40,Infix
+184,26+19,Infix
+185,6+32,Infix
+186,79 99 +,Postfix
+187,59+54,Infix
+188,92+90,Infix
+189,64 52 +,Postfix
+190,19+84,Infix
+191,97+99,Infix
+192,55+29,Infix
+193,90+67,Infix
+194,7 72 +,Postfix
+195,16+59,Infix
+196,60+86,Infix
+197,97 57 +,Postfix
+198,71 58 +,Postfix
+199,96+61,Infix
+200,34 97 +,Postfix
+201,82+36,Infix
+202,81 31 +,Postfix
+203,57 10 +,Postfix
+204,31 35 +,Postfix
+205,41 70 +,Postfix
+206,18+20,Infix
+207,50+89,Infix
+208,91+28,Infix
+209,54+53,Infix
+210,70 60 +,Postfix
+211,8 27 +,Postfix
+212,50 99 +,Postfix
+213,98+74,Infix
+214,62 1 +,Postfix
+215,39 97 +,Postfix
+216,54 69 +,Postfix
+217,63+29,Infix
+218,56 63 +,Postfix
+219,50+44,Infix
+220,93 22 +,Postfix
+221,17 80 +,Postfix
+222,51+76,Infix
+223,11+83,Infix
+224,18 60 +,Postfix
+225,7+34,Infix
+226,42 28 +,Postfix
+227,42 44 +,Postfix
+228,36 97 +,Postfix
+229,33 11 +,Postfix
+230,3 96 +,Postfix
+231,45+29,Infix
+232,84+6,Infix
+233,32+26,Infix
+234,80+20,Infix
+235,17+61,Infix
+236,73+28,Infix
+237,90 33 +,Postfix
+238,22 78 +,Postfix
+239,21+40,Infix
+240,75+4,Infix
+241,74 87 +,Postfix
+242,51 92 +,Postfix
+243,10+76,Infix
+244,14+90,Infix
+245,88 77 +,Postfix
+246,73+6,Infix
+247,69 55 +,Postfix
+248,9 65 +,Postfix
+249,2 54 +,Postfix
+250,14 56 +,Postfix
+251,82 59 +,Postfix
+252,56+23,Infix
+253,79 69 +,Postfix
+254,60 56 +,Postfix
+255,42 32 +,Postfix
+256,36+58,Infix
+257,97+60,Infix
+258,44 4 +,Postfix
+259,42 24 +,Postfix
+260,28 46 +,Postfix
+261,44 36 +,Postfix
+262,72 2 +,Postfix
+263,11+31,Infix
+264,63 72 +,Postfix
+265,89+61,Infix
+266,58 3 +,Postfix
+267,38+29,Infix
+268,89 32 +,Postfix
+269,85 75 +,Postfix
+270,61 71 +,Postfix
+271,55 96 +,Postfix
+272,46 90 +,Postfix
+273,35 40 +,Postfix
+274,30 16 +,Postfix
+275,41+16,Infix
+276,25+28,Infix
+277,36 93 +,Postfix
+278,13 25 +,Postfix
+279,30 47 +,Postfix
+280,39+2,Infix
+281,36+6,Infix
+282,71+38,Infix
+283,82+97,Infix
+284,14 2 +,Postfix
+285,61 62 +,Postfix
+286,44 24 +,Postfix
+287,33+62,Infix
+288,9+52,Infix
+289,10 74 +,Postfix
+290,20+20,Infix
+291,11 32 +,Postfix
+292,72+98,Infix
+293,78 77 +,Postfix
+294,67+49,Infix
+295,57 39 +,Postfix
+296,40 73 +,Postfix
+297,79+95,Infix
+298,98+27,Infix
+299,34+85,Infix
+300,21+31,Infix
+301,71+10,Infix
+302,1+53,Infix
+303,89 77 +,Postfix
+304,38 5 +,Postfix
+305,37+91,Infix
+306,90 59 +,Postfix
+307,88+30,Infix
+308,81 76 +,Postfix
+309,55+15,Infix
+310,83+20,Infix
+311,19 10 +,Postfix
+312,22+40,Infix
+313,57 16 +,Postfix
+314,89 39 +,Postfix
+315,35 65 +,Postfix
+316,57 11 +,Postfix
+317,56+95,Infix
+318,78 33 +,Postfix
+319,12+30,Infix
+320,98+87,Infix
+321,74 6 +,Postfix
+322,61+67,Infix
+323,36 24 +,Postfix
+324,82 63 +,Postfix
+325,61+45,Infix
+326,43 42 +,Postfix
+327,21+43,Infix
+328,89 64 +,Postfix
+329,85 52 +,Postfix
+330,59+12,Infix
+331,33 42 +,Postfix
+332,99+52,Infix
+333,85+70,Infix
+334,53 7 +,Postfix
+335,67+47,Infix
+336,81 57 +,Postfix
+337,27+35,Infix
+338,37+57,Infix
+339,16 4 +,Postfix
+340,91+21,Infix
+341,71 2 +,Postfix
+342,12 29 +,Postfix
+343,60+16,Infix
+344,64+92,Infix
+345,66 91 +,Postfix
+346,54 62 +,Postfix
+347,32 59 +,Postfix
+348,50+25,Infix
+349,9+36,Infix
+350,44 65 +,Postfix
+351,1 37 +,Postfix
+352,76 75 +,Postfix
+353,20 58 +,Postfix
+354,45 43 +,Postfix
+355,59 42 +,Postfix
+356,90+31,Infix
+357,30 53 +,Postfix
+358,41+96,Infix
+359,91 49 +,Postfix
+360,85 84 +,Postfix
+361,64+5,Infix
+362,65+76,Infix
+363,13 57 +,Postfix
+364,68+59,Infix
+365,93+19,Infix
+366,84 20 +,Postfix
+367,61+34,Infix
+368,80 89 +,Postfix
+369,84 11 +,Postfix
+370,87 69 +,Postfix
+371,41 81 +,Postfix
+372,70 5 +,Postfix
+373,31+81,Infix
+374,30 96 +,Postfix
+375,56+13,Infix
+376,57+22,Infix
+377,4 6 +,Postfix
+378,8 38 +,Postfix
+379,48 56 +,Postfix
+380,32+68,Infix
+381,73 88 +,Postfix
+382,22+23,Infix
+383,79+49,Infix
+384,64+75,Infix
+385,30+60,Infix
+386,59 33 +,Postfix
+387,60+37,Infix
+388,10+57,Infix
+389,76 39 +,Postfix
+390,89 33 +,Postfix
+391,39 26 +,Postfix
+392,62 14 +,Postfix
+393,49+74,Infix
+394,74 38 +,Postfix
+395,3 85 +,Postfix
+396,36 2 +,Postfix
+397,78+96,Infix
+398,37 30 +,Postfix
+399,29 82 +,Postfix
+400,80+33,Infix
+401,81+13,Infix
+402,40+57,Infix
+403,75+47,Infix
+404,12+38,Infix
+405,96 54 +,Postfix
+406,26+17,Infix
+407,68 65 +,Postfix
+408,22 33 +,Postfix
+409,38 96 +,Postfix
+410,15 60 +,Postfix
+411,19+97,Infix
+412,87+93,Infix
+413,72 47 +,Postfix
+414,51+2,Infix
+415,69 16 +,Postfix
+416,48 87 +,Postfix
+417,75 49 +,Postfix
+418,14 87 +,Postfix
+419,61+4,Infix
+420,79 29 +,Postfix
+421,82+60,Infix
+422,84 53 +,Postfix
+423,18+6,Infix
+424,39+64,Infix
+425,13+31,Infix
+426,50+59,Infix
+427,86 96 +,Postfix
+428,76 96 +,Postfix
+429,54+84,Infix
+430,63+79,Infix
+431,36 5 +,Postfix
+432,28 57 +,Postfix
+433,31 47 +,Postfix
+434,88+48,Infix
+435,8 51 +,Postfix
+436,25 16 +,Postfix
+437,12 85 +,Postfix
+438,83+82,Infix
+439,7+43,Infix
+440,17+73,Infix
+441,9+98,Infix
+442,76+28,Infix
+443,43+19,Infix
+444,36+19,Infix
+445,70+33,Infix
+446,15+85,Infix
+447,17+2,Infix
+448,31 76 +,Postfix
+449,3 23 +,Postfix
+450,7 17 +,Postfix
+451,68 15 +,Postfix
+452,61+58,Infix
+453,66 76 +,Postfix
+454,58+65,Infix
+455,79+6,Infix
+456,59 83 +,Postfix
+457,8+62,Infix
+458,55 88 +,Postfix
+459,63+92,Infix
+460,10 11 +,Postfix
+461,78 19 +,Postfix
+462,17+36,Infix
+463,49 77 +,Postfix
+464,59 65 +,Postfix
+465,13 90 +,Postfix
+466,84+84,Infix
+467,56+58,Infix
+468,53+44,Infix
+469,52 54 +,Postfix
+470,41+55,Infix
+471,86 33 +,Postfix
+472,20 88 +,Postfix
+473,9 12 +,Postfix
+474,12+56,Infix
+475,96+95,Infix
+476,17 72 +,Postfix
+477,76+72,Infix
+478,86 16 +,Postfix
+479,46 86 +,Postfix
+480,93 7 +,Postfix
+481,77 40 +,Postfix
+482,14 74 +,Postfix
+483,20+85,Infix
+484,29 14 +,Postfix
+485,72 48 +,Postfix
+486,98+36,Infix
+487,55+72,Infix
+488,78+85,Infix
+489,4 24 +,Postfix
+490,90 98 +,Postfix
+491,44 45 +,Postfix
+492,24+19,Infix
+493,9 19 +,Postfix
+494,12+96,Infix
+495,49+54,Infix
+496,44 21 +,Postfix
+497,40 93 +,Postfix
+498,73 77 +,Postfix
+499,7+20,Infix
+500,97+80,Infix
+501,87+11,Infix
+502,57 85 +,Postfix
+503,63 78 +,Postfix
+504,54 35 +,Postfix
+505,97+66,Infix
+506,45+56,Infix
+507,37+87,Infix
+508,68 86 +,Postfix
+509,6 29 +,Postfix
+510,77 8 +,Postfix
+511,27+39,Infix
+512,99+18,Infix
+513,38 42 +,Postfix
+514,1+64,Infix
+515,23 17 +,Postfix
+516,69 91 +,Postfix
+517,65+72,Infix
+518,10 51 +,Postfix
+519,56+3,Infix
+520,10 41 +,Postfix
+521,74 52 +,Postfix
+522,38 15 +,Postfix
+523,3 42 +,Postfix
+524,80+59,Infix
+525,12 56 +,Postfix
+526,32+56,Infix
+527,68 11 +,Postfix
+528,40 96 +,Postfix
+529,29 43 +,Postfix
+530,10+66,Infix
+531,68+66,Infix
+532,45+45,Infix
+533,31+14,Infix
+534,33+26,Infix
+535,78+20,Infix
+536,23+99,Infix
+537,60 97 +,Postfix
+538,88 73 +,Postfix
+539,81 41 +,Postfix
+540,57+9,Infix
+541,57 81 +,Postfix
+542,36 76 +,Postfix
+543,46+65,Infix
+544,40+60,Infix
+545,5 8 +,Postfix
+546,37 10 +,Postfix
+547,79+77,Infix
+548,60 75 +,Postfix
+549,58+74,Infix
+550,42+78,Infix
+551,65 20 +,Postfix
+552,58+14,Infix
+553,92 11 +,Postfix
+554,6+32,Infix
+555,57 68 +,Postfix
+556,47+48,Infix
+557,50 53 +,Postfix
+558,87 77 +,Postfix
+559,81+83,Infix
+560,9 43 +,Postfix
+561,72+87,Infix
+562,37 33 +,Postfix
+563,43+11,Infix
+564,45+40,Infix
+565,17 77 +,Postfix
+566,40+72,Infix
+567,83 43 +,Postfix
+568,86+90,Infix
+569,83+86,Infix
+570,66 47 +,Postfix
+571,47+40,Infix
+572,28+44,Infix
+573,25 29 +,Postfix
+574,20+10,Infix
+575,13 65 +,Postfix
+576,85+44,Infix
+577,77+49,Infix
+578,21+24,Infix
+579,93+57,Infix
+580,53+47,Infix
+581,57+79,Infix
+582,97 96 +,Postfix
+583,30 69 +,Postfix
+584,40+61,Infix
+585,48+87,Infix
+586,60 99 +,Postfix
+587,49 65 +,Postfix
+588,21 26 +,Postfix
+589,33+7,Infix
+590,48 71 +,Postfix
+591,92+67,Infix
+592,37+11,Infix
+593,35+58,Infix
+594,56+12,Infix
+595,58+45,Infix
+596,54+7,Infix
+597,65 48 +,Postfix
+598,50+11,Infix
+599,29 4 +,Postfix
+600,13 92 +,Postfix
+601,19 18 +,Postfix
+602,37+61,Infix
+603,98+91,Infix
+604,58 79 +,Postfix
+605,11+3,Infix
+606,28 20 +,Postfix
+607,15 37 +,Postfix
+608,39+16,Infix
+609,31+54,Infix
+610,9 15 +,Postfix
+611,77 69 +,Postfix
+612,81+66,Infix
+613,92+19,Infix
+614,55 1 +,Postfix
+615,31 74 +,Postfix
+616,24 86 +,Postfix
+617,68+47,Infix
+618,68+70,Infix
+619,50+61,Infix
+620,82+50,Infix
+621,33 96 +,Postfix
+622,46+9,Infix
+623,31 94 +,Postfix
+624,99+75,Infix
+625,18 6 +,Postfix
+626,70 44 +,Postfix
+627,88+60,Infix
+628,81 24 +,Postfix
+629,9+92,Infix
+630,5 38 +,Postfix
+631,6+26,Infix
+632,41+40,Infix
+633,70 61 +,Postfix
+634,5 97 +,Postfix
+635,37+46,Infix
+636,84+43,Infix
+637,16 48 +,Postfix
+638,52 96 +,Postfix
+639,50 44 +,Postfix
+640,64+89,Infix
+641,48 67 +,Postfix
+642,11 94 +,Postfix
+643,11 56 +,Postfix
+644,70+38,Infix
+645,14 11 +,Postfix
+646,85 38 +,Postfix
+647,58 78 +,Postfix
+648,22 89 +,Postfix
+649,45 58 +,Postfix
+650,94+46,Infix
+651,36 82 +,Postfix
+652,10+86,Infix
+653,47 66 +,Postfix
+654,4+19,Infix
+655,5 17 +,Postfix
+656,31+83,Infix
+657,47 50 +,Postfix
+658,78+20,Infix
+659,48 48 +,Postfix
+660,98 10 +,Postfix
+661,68+47,Infix
+662,41 84 +,Postfix
+663,32 15 +,Postfix
+664,95+24,Infix
+665,67 50 +,Postfix
+666,34+34,Infix
+667,28 79 +,Postfix
+668,89 63 +,Postfix
+669,16+18,Infix
+670,58+23,Infix
+671,12 88 +,Postfix
+672,86 45 +,Postfix
+673,71+70,Infix
+674,39 21 +,Postfix
+675,47+66,Infix
+676,16+26,Infix
+677,31+64,Infix
+678,47+71,Infix
+679,60 71 +,Postfix
+680,79+12,Infix
+681,40+51,Infix
+682,68 53 +,Postfix
+683,74 10 +,Postfix
+684,41+83,Infix
+685,58+60,Infix
+686,17 71 +,Postfix
+687,99+17,Infix
+688,65 8 +,Postfix
+689,67+20,Infix
+690,22 21 +,Postfix
+691,91 29 +,Postfix
+692,67 37 +,Postfix
+693,33+26,Infix
+694,17 81 +,Postfix
+695,79 69 +,Postfix
+696,65+83,Infix
+697,76+75,Infix
+698,22+85,Infix
+699,73 6 +,Postfix
+700,11+6,Infix
+701,84 27 +,Postfix
+702,80 82 +,Postfix
+703,64+81,Infix
+704,83 39 +,Postfix
+705,32 88 +,Postfix
+706,39 59 +,Postfix
+707,89+8,Infix
+708,57+54,Infix
+709,60 27 +,Postfix
+710,78 19 +,Postfix
+711,92 41 +,Postfix
+712,52 17 +,Postfix
+713,66 72 +,Postfix
+714,41+31,Infix
+715,16 35 +,Postfix
+716,32 19 +,Postfix
+717,7+38,Infix
+718,79 54 +,Postfix
+719,21+42,Infix
+720,25 98 +,Postfix
+721,64+66,Infix
+722,64 40 +,Postfix
+723,3 12 +,Postfix
+724,65 59 +,Postfix
+725,28+75,Infix
+726,7 7 +,Postfix
+727,64 77 +,Postfix
+728,37 69 +,Postfix
+729,14+56,Infix
+730,34+94,Infix
+731,98 52 +,Postfix
+732,6 52 +,Postfix
+733,73+72,Infix
+734,47+71,Infix
+735,10 50 +,Postfix
+736,98 71 +,Postfix
+737,80 88 +,Postfix
+738,17+13,Infix
+739,48 44 +,Postfix
+740,97 19 +,Postfix
+741,78+66,Infix
+742,65 6 +,Postfix
+743,5+18,Infix
+744,61 67 +,Postfix
+745,20 78 +,Postfix
+746,42+79,Infix
+747,21 51 +,Postfix
+748,76 44 +,Postfix
+749,91 73 +,Postfix
+750,61 3 +,Postfix
+751,43 87 +,Postfix
+752,54+75,Infix
+753,93 89 +,Postfix
+754,77+61,Infix
+755,84 75 +,Postfix
+756,93+7,Infix
+757,22 68 +,Postfix
+758,19 88 +,Postfix
+759,5+74,Infix
+760,25+3,Infix
+761,41 54 +,Postfix
+762,53+89,Infix
+763,53+65,Infix
+764,95 94 +,Postfix
+765,91+18,Infix
+766,72+42,Infix
+767,68 49 +,Postfix
+768,23 59 +,Postfix
+769,70 46 +,Postfix
+770,79 62 +,Postfix
+771,32+36,Infix
+772,29 39 +,Postfix
+773,91 27 +,Postfix
+774,41 62 +,Postfix
+775,72 93 +,Postfix
+776,37 16 +,Postfix
+777,51 45 +,Postfix
+778,38+6,Infix
+779,92 11 +,Postfix
+780,57 84 +,Postfix
+781,96 62 +,Postfix
+782,26+69,Infix
+783,72 90 +,Postfix
+784,18 14 +,Postfix
+785,32+7,Infix
+786,82+30,Infix
+787,13+53,Infix
+788,92 61 +,Postfix
+789,88+99,Infix
+790,1+71,Infix
+791,53+84,Infix
+792,62 84 +,Postfix
+793,97+37,Infix
+794,37 83 +,Postfix
+795,99+12,Infix
+796,69+95,Infix
+797,23+54,Infix
+798,5+51,Infix
+799,24 96 +,Postfix
+800,5 2 +,Postfix
+801,73 78 +,Postfix
+802,43+37,Infix
+803,83 70 +,Postfix
+804,18 65 +,Postfix
+805,35 25 +,Postfix
+806,43+21,Infix
+807,83 33 +,Postfix
+808,2+95,Infix
+809,38 73 +,Postfix
+810,23+79,Infix
+811,55 66 +,Postfix
+812,12 52 +,Postfix
+813,24+18,Infix
+814,42 32 +,Postfix
+815,34+50,Infix
+816,58+97,Infix
+817,43 39 +,Postfix
+818,34+84,Infix
+819,89 31 +,Postfix
+820,86+16,Infix
+821,40 21 +,Postfix
+822,88 65 +,Postfix
+823,89 16 +,Postfix
+824,48 79 +,Postfix
+825,29+18,Infix
+826,20 59 +,Postfix
+827,54 90 +,Postfix
+828,97 69 +,Postfix
+829,98+32,Infix
+830,68+58,Infix
+831,10 73 +,Postfix
+832,8+71,Infix
+833,74+69,Infix
+834,22+42,Infix
+835,15 88 +,Postfix
+836,92+75,Infix
+837,12 66 +,Postfix
+838,8 59 +,Postfix
+839,66+54,Infix
+840,73 8 +,Postfix
+841,87 40 +,Postfix
+842,51+33,Infix
+843,96+28,Infix
+844,6+55,Infix
+845,90 9 +,Postfix
+846,9+61,Infix
+847,37+53,Infix
+848,99+18,Infix
+849,48 49 +,Postfix
+850,49 49 +,Postfix
+851,88+85,Infix
+852,84+45,Infix
+853,23+69,Infix
+854,68 17 +,Postfix
+855,1+97,Infix
+856,39+60,Infix
+857,69 49 +,Postfix
+858,32+59,Infix
+859,20 36 +,Postfix
+860,93+98,Infix
+861,5+85,Infix
+862,79 99 +,Postfix
+863,31+27,Infix
+864,13+77,Infix
+865,58+77,Infix
+866,32+95,Infix
+867,52+57,Infix
+868,70+28,Infix
+869,18+65,Infix
+870,30 94 +,Postfix
+871,74 77 +,Postfix
+872,31 39 +,Postfix
+873,85+67,Infix
+874,53+39,Infix
+875,8 72 +,Postfix
+876,81+87,Infix
+877,72 64 +,Postfix
+878,45+83,Infix
+879,68 41 +,Postfix
+880,53 20 +,Postfix
+881,49 24 +,Postfix
+882,31 29 +,Postfix
+883,91 19 +,Postfix
+884,8 72 +,Postfix
+885,54 72 +,Postfix
+886,50+32,Infix
+887,27 43 +,Postfix
+888,58+48,Infix
+889,69+93,Infix
+890,7+35,Infix
+891,87 78 +,Postfix
+892,10+25,Infix
+893,62+27,Infix
+894,39 2 +,Postfix
+895,25+95,Infix
+896,96+97,Infix
+897,32 90 +,Postfix
+898,51+31,Infix
+899,37 49 +,Postfix
+900,69 84 +,Postfix
+901,40 34 +,Postfix
+902,66 64 +,Postfix
+903,13 93 +,Postfix
+904,98 41 +,Postfix
+905,48+41,Infix
+906,6 73 +,Postfix
+907,95+19,Infix
+908,34+71,Infix
+909,38 20 +,Postfix
+910,43+30,Infix
+911,73 32 +,Postfix
+912,71 84 +,Postfix
+913,33 98 +,Postfix
+914,93 83 +,Postfix
+915,59 22 +,Postfix
+916,22 18 +,Postfix
+917,24 70 +,Postfix
+918,68+5,Infix
+919,86+7,Infix
+920,53+18,Infix
+921,9+91,Infix
+922,2+28,Infix
+923,48 8 +,Postfix
+924,85 63 +,Postfix
+925,1+69,Infix
+926,2 3 +,Postfix
+927,69 37 +,Postfix
+928,65+90,Infix
+929,23 14 +,Postfix
+930,68+20,Infix
+931,25+80,Infix
+932,46 35 +,Postfix
+933,11 48 +,Postfix
+934,59 73 +,Postfix
+935,90+29,Infix
+936,88 11 +,Postfix
+937,12+52,Infix
+938,49 71 +,Postfix
+939,8 82 +,Postfix
+940,90+22,Infix
+941,64+56,Infix
+942,73 13 +,Postfix
+943,30+28,Infix
+944,35 6 +,Postfix
+945,88+36,Infix
+946,23+41,Infix
+947,27+76,Infix
+948,97+92,Infix
+949,10 39 +,Postfix
+950,73+31,Infix
+951,87 70 +,Postfix
+952,50 97 +,Postfix
+953,89+93,Infix
+954,65+96,Infix
+955,7 13 +,Postfix
+956,30 10 +,Postfix
+957,78 99 +,Postfix
+958,42 4 +,Postfix
+959,58 63 +,Postfix
+960,46+71,Infix
+961,56 24 +,Postfix
+962,11 99 +,Postfix
+963,32 92 +,Postfix
+964,11+35,Infix
+965,49+92,Infix
+966,95+50,Infix
+967,47 14 +,Postfix
+968,1+40,Infix
+969,47 98 +,Postfix
+970,14 17 +,Postfix
+971,24+56,Infix
+972,72 72 +,Postfix
+973,14 4 +,Postfix
+974,46+71,Infix
+975,77+77,Infix
+976,50 2 +,Postfix
+977,53 50 +,Postfix
+978,93+72,Infix
+979,74+67,Infix
+980,88+49,Infix
+981,18+35,Infix
+982,35 64 +,Postfix
+983,9+22,Infix
+984,36 54 +,Postfix
+985,62 10 +,Postfix
+986,33 32 +,Postfix
+987,77 79 +,Postfix
+988,59+14,Infix
+989,39+1,Infix
+990,43 80 +,Postfix
+991,43 57 +,Postfix
+992,56 84 +,Postfix
+993,39+42,Infix
+994,62+41,Infix
+995,51+41,Infix
+996,95 89 +,Postfix
+997,74 32 +,Postfix
+998,49 36 +,Postfix
+999,47 15 +,Postfix
+1000,76+70,Infix
+1001,88+99,Infix
+1002,94+60,Infix
+1003,57+38,Infix
+1004,53+87,Infix
+1005,18 82 +,Postfix
+1006,31 33 +,Postfix
+1007,92+55,Infix
+1008,10 58 +,Postfix
+1009,75 52 +,Postfix
+1010,70 5 +,Postfix
+1011,90 69 +,Postfix
+1012,14+99,Infix
+1013,85+86,Infix
+1014,22 83 +,Postfix
+1015,73+83,Infix
+1016,97 43 +,Postfix
+1017,14 2 +,Postfix
+1018,34+29,Infix
+1019,58+48,Infix
+1020,60 99 +,Postfix
+1021,45+4,Infix
+1022,14 38 +,Postfix
+1023,11 15 +,Postfix
+1024,45+40,Infix
+1025,59 27 +,Postfix
+1026,45 61 +,Postfix
+1027,57+93,Infix
+1028,41 9 +,Postfix
+1029,6 91 +,Postfix
+1030,3+44,Infix
+1031,87+22,Infix
+1032,67+23,Infix
+1033,43+72,Infix
+1034,60 30 +,Postfix
+1035,81 24 +,Postfix
+1036,82+85,Infix
+1037,51 4 +,Postfix
+1038,58+76,Infix
+1039,50 1 +,Postfix
+1040,27+36,Infix
+1041,74+14,Infix
+1042,47+42,Infix
+1043,59+15,Infix
+1044,86 63 +,Postfix
+1045,77 50 +,Postfix
+1046,76 15 +,Postfix
+1047,46 59 +,Postfix
+1048,87+91,Infix
+1049,79 76 +,Postfix
+1050,87+18,Infix
+1051,16 31 +,Postfix
+1052,15 24 +,Postfix
+1053,89 19 +,Postfix
+1054,54 77 +,Postfix
+1055,74+50,Infix
+1056,24 63 +,Postfix
+1057,72+22,Infix
+1058,37 18 +,Postfix
+1059,41+58,Infix
+1060,46+2,Infix
+1061,18 25 +,Postfix
+1062,72 65 +,Postfix
+1063,53 88 +,Postfix
+1064,54 91 +,Postfix
+1065,63 22 +,Postfix
+1066,73+4,Infix
+1067,38+5,Infix
+1068,29 69 +,Postfix
+1069,22 59 +,Postfix
+1070,71 66 +,Postfix
+1071,74+15,Infix
+1072,70 47 +,Postfix
+1073,98+93,Infix
+1074,70 28 +,Postfix
+1075,14 95 +,Postfix
+1076,39+5,Infix
+1077,34 45 +,Postfix
+1078,57+16,Infix
+1079,27+95,Infix
+1080,91 79 +,Postfix
+1081,22 79 +,Postfix
+1082,27+27,Infix
+1083,73+45,Infix
+1084,77 69 +,Postfix
+1085,42+91,Infix
+1086,38 74 +,Postfix
+1087,66 87 +,Postfix
+1088,18+97,Infix
+1089,8 36 +,Postfix
+1090,90+17,Infix
+1091,19+92,Infix
+1092,32 98 +,Postfix
+1093,63 19 +,Postfix
+1094,81 54 +,Postfix
+1095,58 10 +,Postfix
+1096,52+66,Infix
+1097,89 48 +,Postfix
+1098,63 42 +,Postfix
+1099,94+12,Infix
+1100,82 86 +,Postfix
+1101,9 69 +,Postfix
+1102,28 55 +,Postfix
+1103,64+35,Infix
+1104,37 44 +,Postfix
+1105,73+63,Infix
+1106,88 98 +,Postfix
+1107,6+13,Infix
+1108,3 16 +,Postfix
+1109,57+59,Infix
+1110,55+26,Infix
+1111,84+39,Infix
+1112,36+12,Infix
+1113,33 11 +,Postfix
+1114,86 84 +,Postfix
+1115,7+51,Infix
+1116,93 90 +,Postfix
+1117,55+84,Infix
+1118,91+13,Infix
+1119,28+62,Infix
+1120,17+76,Infix
+1121,67+88,Infix
+1122,2 2 +,Postfix
+1123,16 55 +,Postfix
+1124,62+10,Infix
+1125,50+12,Infix
+1126,14+41,Infix
+1127,39 18 +,Postfix
+1128,97 18 +,Postfix
+1129,9+68,Infix
+1130,79+84,Infix
+1131,57+45,Infix
+1132,81+96,Infix
+1133,53+79,Infix
+1134,28 12 +,Postfix
+1135,18+97,Infix
+1136,76+94,Infix
+1137,45 55 +,Postfix
+1138,18 32 +,Postfix
+1139,83 11 +,Postfix
+1140,71+77,Infix
+1141,89 4 +,Postfix
+1142,27 67 +,Postfix
+1143,96+51,Infix
+1144,83 7 +,Postfix
+1145,64+50,Infix
+1146,31+64,Infix
+1147,68+2,Infix
+1148,41 17 +,Postfix
+1149,73 54 +,Postfix
+1150,70 88 +,Postfix
+1151,98+61,Infix
+1152,3+76,Infix
+1153,2+34,Infix
+1154,6+8,Infix
+1155,65 37 +,Postfix
+1156,55 90 +,Postfix
+1157,11 82 +,Postfix
+1158,36+11,Infix
+1159,11 66 +,Postfix
+1160,20+69,Infix
+1161,51 76 +,Postfix
+1162,40+90,Infix
+1163,94 31 +,Postfix
+1164,32+12,Infix
+1165,15 59 +,Postfix
+1166,40+86,Infix
+1167,16+2,Infix
+1168,90+2,Infix
+1169,64+45,Infix
+1170,22 48 +,Postfix
+1171,96+35,Infix
+1172,99+4,Infix
+1173,55 35 +,Postfix
+1174,34+92,Infix
+1175,64+59,Infix
+1176,8 64 +,Postfix
+1177,48+21,Infix
+1178,99 14 +,Postfix
+1179,30+95,Infix
+1180,6+2,Infix
+1181,6+61,Infix
+1182,50 20 +,Postfix
+1183,5+71,Infix
+1184,29 42 +,Postfix
+1185,54+93,Infix
+1186,35 10 +,Postfix
+1187,16 65 +,Postfix
+1188,23+29,Infix
+1189,52+9,Infix
+1190,37 40 +,Postfix
+1191,12 71 +,Postfix
+1192,2 48 +,Postfix
+1193,38+73,Infix
+1194,95 80 +,Postfix
+1195,60+48,Infix
+1196,99 26 +,Postfix
+1197,20+1,Infix
+1198,4 30 +,Postfix
+1199,82 89 +,Postfix
+1200,43+1,Infix
+1201,95 94 +,Postfix
+1202,14 27 +,Postfix
+1203,54+63,Infix
+1204,19+92,Infix
+1205,12 6 +,Postfix
+1206,67+53,Infix
+1207,59 96 +,Postfix
+1208,75+13,Infix
+1209,82+51,Infix
+1210,76+73,Infix
+1211,56+85,Infix
+1212,31+38,Infix
+1213,41 51 +,Postfix
+1214,41 58 +,Postfix
+1215,30 10 +,Postfix
+1216,18+99,Infix
+1217,20+14,Infix
+1218,58+60,Infix
+1219,53 16 +,Postfix
+1220,99 27 +,Postfix
+1221,40 60 +,Postfix
+1222,16 12 +,Postfix
+1223,88+39,Infix
+1224,28+42,Infix
+1225,12+92,Infix
+1226,46+51,Infix
+1227,87+39,Infix
+1228,23 4 +,Postfix
+1229,58 72 +,Postfix
+1230,13+60,Infix
+1231,18+16,Infix
+1232,8+29,Infix
+1233,26+52,Infix
+1234,88 81 +,Postfix
+1235,75+76,Infix
+1236,10 3 +,Postfix
+1237,26+83,Infix
+1238,17 12 +,Postfix
+1239,16 6 +,Postfix
+1240,7 22 +,Postfix
+1241,93 51 +,Postfix
+1242,4 49 +,Postfix
+1243,23 46 +,Postfix
+1244,24+36,Infix
+1245,58 20 +,Postfix
+1246,79+80,Infix
+1247,83+38,Infix
+1248,53 71 +,Postfix
+1249,8 12 +,Postfix
+1250,50 18 +,Postfix
+1251,26 83 +,Postfix
+1252,81+70,Infix
+1253,49+92,Infix
+1254,62 70 +,Postfix
+1255,45 73 +,Postfix
+1256,50 35 +,Postfix
+1257,4+41,Infix
+1258,4+36,Infix
+1259,61+68,Infix
+1260,99 75 +,Postfix
+1261,21+13,Infix
+1262,85+31,Infix
+1263,69 95 +,Postfix
+1264,98+29,Infix
+1265,46 23 +,Postfix
+1266,31+76,Infix
+1267,95 90 +,Postfix
+1268,76 4 +,Postfix
+1269,73 73 +,Postfix
+1270,73+25,Infix
+1271,70 40 +,Postfix
+1272,63+5,Infix
+1273,8+30,Infix
+1274,3+68,Infix
+1275,1 43 +,Postfix
+1276,17+44,Infix
+1277,42+8,Infix
+1278,19+76,Infix
+1279,15+68,Infix
+1280,10 48 +,Postfix
+1281,76 13 +,Postfix
+1282,39 42 +,Postfix
+1283,21+94,Infix
+1284,82 63 +,Postfix
+1285,23 91 +,Postfix
+1286,29 86 +,Postfix
+1287,49+40,Infix
+1288,17 23 +,Postfix
+1289,90+74,Infix
+1290,99 73 +,Postfix
+1291,24+78,Infix
+1292,79 29 +,Postfix
+1293,64+19,Infix
+1294,96 10 +,Postfix
+1295,45+41,Infix
+1296,82+12,Infix
+1297,58 2 +,Postfix
+1298,27 32 +,Postfix
+1299,45+33,Infix
+1300,93+1,Infix
+1301,50+57,Infix
+1302,22 53 +,Postfix
+1303,49 45 +,Postfix
+1304,13 62 +,Postfix
+1305,21+58,Infix
+1306,5+38,Infix
+1307,41+34,Infix
+1308,10+44,Infix
+1309,49+21,Infix
+1310,71+12,Infix
+1311,77 79 +,Postfix
+1312,91 4 +,Postfix
+1313,84 22 +,Postfix
+1314,21 7 +,Postfix
+1315,43+27,Infix
+1316,53+90,Infix
+1317,85 37 +,Postfix
+1318,31 13 +,Postfix
+1319,51+74,Infix
+1320,20 7 +,Postfix
+1321,1 55 +,Postfix
+1322,38+85,Infix
+1323,26 13 +,Postfix
+1324,27+22,Infix
+1325,11 61 +,Postfix
+1326,40+51,Infix
+1327,63 85 +,Postfix
+1328,12 83 +,Postfix
+1329,24 48 +,Postfix
+1330,48 24 +,Postfix
+1331,6 34 +,Postfix
+1332,60 34 +,Postfix
+1333,35+73,Infix
+1334,20+97,Infix
+1335,11+86,Infix
+1336,70 53 +,Postfix
+1337,71+8,Infix
+1338,67 54 +,Postfix
+1339,74 31 +,Postfix
+1340,39 11 +,Postfix
+1341,92 5 +,Postfix
+1342,16+97,Infix
+1343,23 22 +,Postfix
+1344,25+17,Infix
+1345,55+11,Infix
+1346,26 81 +,Postfix
+1347,77+34,Infix
+1348,94 9 +,Postfix
+1349,50+72,Infix
+1350,71 42 +,Postfix
+1351,67 59 +,Postfix
+1352,90+80,Infix
+1353,15 54 +,Postfix
+1354,19+73,Infix
+1355,14+73,Infix
+1356,37+69,Infix
+1357,53 34 +,Postfix
+1358,84 63 +,Postfix
+1359,5 23 +,Postfix
+1360,52 19 +,Postfix
+1361,5 51 +,Postfix
+1362,89 31 +,Postfix
+1363,96+61,Infix
+1364,48 3 +,Postfix
+1365,39 40 +,Postfix
+1366,63 90 +,Postfix
+1367,30+18,Infix
+1368,96 57 +,Postfix
+1369,35 94 +,Postfix
+1370,78 83 +,Postfix
+1371,25+57,Infix
+1372,53+95,Infix
+1373,98 67 +,Postfix
+1374,8 66 +,Postfix
+1375,9+40,Infix
+1376,18 68 +,Postfix
+1377,23+25,Infix
+1378,8+32,Infix
+1379,59+7,Infix
+1380,91 26 +,Postfix
+1381,48 60 +,Postfix
+1382,82 16 +,Postfix
+1383,31+48,Infix
+1384,77 58 +,Postfix
+1385,61+76,Infix
+1386,45 21 +,Postfix
+1387,96 89 +,Postfix
+1388,37+4,Infix
+1389,7 21 +,Postfix
+1390,29+83,Infix
+1391,87+27,Infix
+1392,84 53 +,Postfix
+1393,99+88,Infix
+1394,61+17,Infix
+1395,77+2,Infix
+1396,33+78,Infix
+1397,92 91 +,Postfix
+1398,55 49 +,Postfix
+1399,59 33 +,Postfix
+1400,60+39,Infix
+1401,75 14 +,Postfix
+1402,66+85,Infix
+1403,72 83 +,Postfix
+1404,39 88 +,Postfix
+1405,62+9,Infix
+1406,36 82 +,Postfix
+1407,36 34 +,Postfix
+1408,25 20 +,Postfix
+1409,8+77,Infix
+1410,85 41 +,Postfix
+1411,93+4,Infix
+1412,38 34 +,Postfix
+1413,52 50 +,Postfix
+1414,75+91,Infix
+1415,44+93,Infix
+1416,88+69,Infix
+1417,86 46 +,Postfix
+1418,22 85 +,Postfix
+1419,38+13,Infix
+1420,17 95 +,Postfix
+1421,93 72 +,Postfix
+1422,88+43,Infix
+1423,29+46,Infix
+1424,96+40,Infix
+1425,43 48 +,Postfix
+1426,75 38 +,Postfix
+1427,16 61 +,Postfix
+1428,82+75,Infix
+1429,61+25,Infix
+1430,88+49,Infix
+1431,53 7 +,Postfix
+1432,18+26,Infix
+1433,53 73 +,Postfix
+1434,19 41 +,Postfix
+1435,11+63,Infix
+1436,81 23 +,Postfix
+1437,82 8 +,Postfix
+1438,58+36,Infix
+1439,98+22,Infix
+1440,63+98,Infix
+1441,17+79,Infix
+1442,82 55 +,Postfix
+1443,55 62 +,Postfix
+1444,1 5 +,Postfix
+1445,94+48,Infix
+1446,42+97,Infix
+1447,3+87,Infix
+1448,81+94,Infix
+1449,29+89,Infix
+1450,40 17 +,Postfix
+1451,50+65,Infix
+1452,22 9 +,Postfix
+1453,39+38,Infix
+1454,94 67 +,Postfix
+1455,56 88 +,Postfix
+1456,44+63,Infix
+1457,97 25 +,Postfix
+1458,52+3,Infix
+1459,29+94,Infix
+1460,28+94,Infix
+1461,76+65,Infix
+1462,16+47,Infix
+1463,49+82,Infix
+1464,99 69 +,Postfix
+1465,77+7,Infix
+1466,84+3,Infix
+1467,89+15,Infix
+1468,57 49 +,Postfix
+1469,71+33,Infix
+1470,90 20 +,Postfix
+1471,89+88,Infix
+1472,39+54,Infix
+1473,85+67,Infix
+1474,80 78 +,Postfix
+1475,54+14,Infix
+1476,37+15,Infix
+1477,64+26,Infix
+1478,34+67,Infix
+1479,46+91,Infix
+1480,38 21 +,Postfix
+1481,71+64,Infix
+1482,89+62,Infix
+1483,31 1 +,Postfix
+1484,86+12,Infix
+1485,74+86,Infix
+1486,20 12 +,Postfix
+1487,93+93,Infix
+1488,33+83,Infix
+1489,59+38,Infix
+1490,60 7 +,Postfix
+1491,23+6,Infix
+1492,47 87 +,Postfix
+1493,55 95 +,Postfix
+1494,13+98,Infix
+1495,2+18,Infix
+1496,43+46,Infix
+1497,80 35 +,Postfix
+1498,48+44,Infix
+1499,15+52,Infix
+1500,59 35 +,Postfix
+1501,89 62 +,Postfix
+1502,84 22 +,Postfix
+1503,17+90,Infix
+1504,21+14,Infix
+1505,76 62 +,Postfix
+1506,24 79 +,Postfix
+1507,46 79 +,Postfix
+1508,88+94,Infix
+1509,62+63,Infix
+1510,53+57,Infix
+1511,9+34,Infix
+1512,2 91 +,Postfix
+1513,86+44,Infix
+1514,56+85,Infix
+1515,62+45,Infix
+1516,20 72 +,Postfix
+1517,2+83,Infix
+1518,65+61,Infix
+1519,22 10 +,Postfix
+1520,42 31 +,Postfix
+1521,36 7 +,Postfix
+1522,71+83,Infix
+1523,52 31 +,Postfix
+1524,59+57,Infix
+1525,12 64 +,Postfix
+1526,41 16 +,Postfix
+1527,96 84 +,Postfix
+1528,14+52,Infix
+1529,5 72 +,Postfix
+1530,12+78,Infix
+1531,66 72 +,Postfix
+1532,84+86,Infix
+1533,44 47 +,Postfix
+1534,29+59,Infix
+1535,72 99 +,Postfix
+1536,92 85 +,Postfix
+1537,92 58 +,Postfix
+1538,13+98,Infix
+1539,1+44,Infix
+1540,82 38 +,Postfix
+1541,90 14 +,Postfix
+1542,22+64,Infix
+1543,92+96,Infix
+1544,14 33 +,Postfix
+1545,25+16,Infix
+1546,28 59 +,Postfix
+1547,92+44,Infix
+1548,97+54,Infix
+1549,82+87,Infix
+1550,99+58,Infix
+1551,85 76 +,Postfix
+1552,64+1,Infix
+1553,71+56,Infix
+1554,66 23 +,Postfix
+1555,94+17,Infix
+1556,50+85,Infix
+1557,65 50 +,Postfix
+1558,78 89 +,Postfix
+1559,36+51,Infix
+1560,38 58 +,Postfix
+1561,18+53,Infix
+1562,90 71 +,Postfix
+1563,92 95 +,Postfix
+1564,26+27,Infix
+1565,88 45 +,Postfix
+1566,91+84,Infix
+1567,65+70,Infix
+1568,91 15 +,Postfix
+1569,72 62 +,Postfix
+1570,87 96 +,Postfix
+1571,55 2 +,Postfix
+1572,4+49,Infix
+1573,7+86,Infix
+1574,26+35,Infix
+1575,37+88,Infix
+1576,19 8 +,Postfix
+1577,27 97 +,Postfix
+1578,46+58,Infix
+1579,79+87,Infix
+1580,96+83,Infix
+1581,31 66 +,Postfix
+1582,89 86 +,Postfix
+1583,49+50,Infix
+1584,88 41 +,Postfix
+1585,2+96,Infix
+1586,26 80 +,Postfix
+1587,29 82 +,Postfix
+1588,97 76 +,Postfix
+1589,93+25,Infix
+1590,58 23 +,Postfix
+1591,24+23,Infix
+1592,49+6,Infix
+1593,36 72 +,Postfix
+1594,17 21 +,Postfix
+1595,1 43 +,Postfix
+1596,91 20 +,Postfix
+1597,20+42,Infix
+1598,81+79,Infix
+1599,63 74 +,Postfix
+1600,10 91 +,Postfix
+1601,68 29 +,Postfix
+1602,67+9,Infix
+1603,54+70,Infix
+1604,12 45 +,Postfix
+1605,28+85,Infix
+1606,43 47 +,Postfix
+1607,28 97 +,Postfix
+1608,72 97 +,Postfix
+1609,15+86,Infix
+1610,58 31 +,Postfix
+1611,6+88,Infix
+1612,49 15 +,Postfix
+1613,33 70 +,Postfix
+1614,4 67 +,Postfix
+1615,66 66 +,Postfix
+1616,63 6 +,Postfix
+1617,84 25 +,Postfix
+1618,66 11 +,Postfix
+1619,22+99,Infix
+1620,81+9,Infix
+1621,86+81,Infix
+1622,88+55,Infix
+1623,27+69,Infix
+1624,83 10 +,Postfix
+1625,4+59,Infix
+1626,5 12 +,Postfix
+1627,7+23,Infix
+1628,72 10 +,Postfix
+1629,34+53,Infix
+1630,58 81 +,Postfix
+1631,56 41 +,Postfix
+1632,50+87,Infix
+1633,69+1,Infix
+1634,97+96,Infix
+1635,90+10,Infix
+1636,65 14 +,Postfix
+1637,88 39 +,Postfix
+1638,37+98,Infix
+1639,49 51 +,Postfix
+1640,61+21,Infix
+1641,18+96,Infix
+1642,70 38 +,Postfix
+1643,39+87,Infix
+1644,2 71 +,Postfix
+1645,16+6,Infix
+1646,74+77,Infix
+1647,69 71 +,Postfix
+1648,40+27,Infix
+1649,28 53 +,Postfix
+1650,21+24,Infix
+1651,79+33,Infix
+1652,15+24,Infix
+1653,97+71,Infix
+1654,83 71 +,Postfix
+1655,38+86,Infix
+1656,33+13,Infix
+1657,93+75,Infix
+1658,43 46 +,Postfix
+1659,86+84,Infix
+1660,13+37,Infix
+1661,25+41,Infix
+1662,58 43 +,Postfix
+1663,89 75 +,Postfix
+1664,73+73,Infix
+1665,41 55 +,Postfix
+1666,1+41,Infix
+1667,29+92,Infix
+1668,36 47 +,Postfix
+1669,87+94,Infix
+1670,62 60 +,Postfix
+1671,46 40 +,Postfix
+1672,71 14 +,Postfix
+1673,83+78,Infix
+1674,36+18,Infix
+1675,34+94,Infix
+1676,94+10,Infix
+1677,65+81,Infix
+1678,75+75,Infix
+1679,99 76 +,Postfix
+1680,5+71,Infix
+1681,70 70 +,Postfix
+1682,84 20 +,Postfix
+1683,51 29 +,Postfix
+1684,18 60 +,Postfix
+1685,51+47,Infix
+1686,85+31,Infix
+1687,97+66,Infix
+1688,58+21,Infix
+1689,73+73,Infix
+1690,95+94,Infix
+1691,46 6 +,Postfix
+1692,98+63,Infix
+1693,9+34,Infix
+1694,30 6 +,Postfix
+1695,67+47,Infix
+1696,61 59 +,Postfix
+1697,6+84,Infix
+1698,14 91 +,Postfix
+1699,95 34 +,Postfix
+1700,49+84,Infix
+1701,47 76 +,Postfix
+1702,67+33,Infix
+1703,29 67 +,Postfix
+1704,46 45 +,Postfix
+1705,62 78 +,Postfix
+1706,65+18,Infix
+1707,22 30 +,Postfix
+1708,66+83,Infix
+1709,28 20 +,Postfix
+1710,21+47,Infix
+1711,85+30,Infix
+1712,43 93 +,Postfix
+1713,62+87,Infix
+1714,62 27 +,Postfix
+1715,83+53,Infix
+1716,32+6,Infix
+1717,74+76,Infix
+1718,18+81,Infix
+1719,74+19,Infix
+1720,22+34,Infix
+1721,67+52,Infix
+1722,93+94,Infix
+1723,11 28 +,Postfix
+1724,78 61 +,Postfix
+1725,22 29 +,Postfix
+1726,77 19 +,Postfix
+1727,80+85,Infix
+1728,22 93 +,Postfix
+1729,59 77 +,Postfix
+1730,30+49,Infix
+1731,17 14 +,Postfix
+1732,26+67,Infix
+1733,20 78 +,Postfix
+1734,23+61,Infix
+1735,69+65,Infix
+1736,12+62,Infix
+1737,78+70,Infix
+1738,87+84,Infix
+1739,67 54 +,Postfix
+1740,6 90 +,Postfix
+1741,30 62 +,Postfix
+1742,45 76 +,Postfix
+1743,55+18,Infix
+1744,62 99 +,Postfix
+1745,11+37,Infix
+1746,33 25 +,Postfix
+1747,91+96,Infix
+1748,74+67,Infix
+1749,67+1,Infix
+1750,84 27 +,Postfix
+1751,53 47 +,Postfix
+1752,20+55,Infix
+1753,34 69 +,Postfix
+1754,73 47 +,Postfix
+1755,88 51 +,Postfix
+1756,53+71,Infix
+1757,23 48 +,Postfix
+1758,33 40 +,Postfix
+1759,91 51 +,Postfix
+1760,85+16,Infix
+1761,58+90,Infix
+1762,13+28,Infix
+1763,44 71 +,Postfix
+1764,21+50,Infix
+1765,12+19,Infix
+1766,77 56 +,Postfix
+1767,9+34,Infix
+1768,48+11,Infix
+1769,93+50,Infix
+1770,79 84 +,Postfix
+1771,92 77 +,Postfix
+1772,23+82,Infix
+1773,57 2 +,Postfix
+1774,85+67,Infix
+1775,25 5 +,Postfix
+1776,79+22,Infix
+1777,47+31,Infix
+1778,21+12,Infix
+1779,52 46 +,Postfix
+1780,52 76 +,Postfix
+1781,67+2,Infix
+1782,12+71,Infix
+1783,93 72 +,Postfix
+1784,45 36 +,Postfix
+1785,78+25,Infix
+1786,52 74 +,Postfix
+1787,34+23,Infix
+1788,65 14 +,Postfix
+1789,65+38,Infix
+1790,15 66 +,Postfix
+1791,69 74 +,Postfix
+1792,89 57 +,Postfix
+1793,73 62 +,Postfix
+1794,97+44,Infix
+1795,88 59 +,Postfix
+1796,62+15,Infix
+1797,9 49 +,Postfix
+1798,87+90,Infix
+1799,41+53,Infix
+1800,67 69 +,Postfix
+1801,90+34,Infix
+1802,37+12,Infix
+1803,87 96 +,Postfix
+1804,10 71 +,Postfix
+1805,61+41,Infix
+1806,28 74 +,Postfix
+1807,24 96 +,Postfix
+1808,64+95,Infix
+1809,31+95,Infix
+1810,34+27,Infix
+1811,26+32,Infix
+1812,20 14 +,Postfix
+1813,11+87,Infix
+1814,79 1 +,Postfix
+1815,62+48,Infix
+1816,64 74 +,Postfix
+1817,63 24 +,Postfix
+1818,51 29 +,Postfix
+1819,7+68,Infix
+1820,62 70 +,Postfix
+1821,65+45,Infix
+1822,88 23 +,Postfix
+1823,16 90 +,Postfix
+1824,41 89 +,Postfix
+1825,2+87,Infix
+1826,49+75,Infix
+1827,42+47,Infix
+1828,24 71 +,Postfix
+1829,31 35 +,Postfix
+1830,79 44 +,Postfix
+1831,24 64 +,Postfix
+1832,27 54 +,Postfix
+1833,47 52 +,Postfix
+1834,58 24 +,Postfix
+1835,74+88,Infix
+1836,13+93,Infix
+1837,31 72 +,Postfix
+1838,49 26 +,Postfix
+1839,95+20,Infix
+1840,2 23 +,Postfix
+1841,64 18 +,Postfix
+1842,63 39 +,Postfix
+1843,72 73 +,Postfix
+1844,51+13,Infix
+1845,8+28,Infix
+1846,61 81 +,Postfix
+1847,58+96,Infix
+1848,34 47 +,Postfix
+1849,72 72 +,Postfix
+1850,45 3 +,Postfix
+10,A+3,Infix
+11,4 5,Postfix
+12,3+*4,Infix
+13,5 6 +,Unknown
+10,7+8,Infix
+XYZ,1+2,Infix
+14,X Y +,Postfix
+15,4+B,Infix
+1859,5 6 + +,WeirdType
+1860,9 +,WeirdType
+1861,7 8,Postfix
+1862,5 6 + +,Postfix
+1863,3+*4,WeirdType
+1864,3+*4,Infix
+1865,X Y +,WeirdType
+1866,++,Postfix
+1867,7 8,Infix
+1868,5 6 + +,Postfix
+1869,X Y +,Infix
+1870,4+B,Infix
+1871,5 6 + +,Infix
+1872,5 6 + +,Postfix
+1873,++,WeirdType
+1874,++,WeirdType
+1875,X Y +,Postfix
+1876,3+*4,Postfix
+1877,3+*4,Postfix
+1878,7 8,Infix
+1879,A+3,Infix
+1880,9 +,WeirdType
+1881,++,WeirdType
+1882,4+B,Infix
+1883,7 8,Postfix
+1884,4+B,Infix
+1885,4+B,Postfix
+1886,A+3,Infix
+1887,X Y +,WeirdType
+1888,4+B,Infix
+1889,++,WeirdType
+1890,7 8,Infix
+1891,X Y +,Postfix
+1892,9 +,Infix
+1893,++,Postfix
+1894,7 8,Infix
+1895,7 8,Infix
+1896,A+3,WeirdType
+1897,5 6 + +,Postfix
+1898,3+*4,Postfix
+1899,++,WeirdType
+1900,3+*4,Infix
+1901,7 8,WeirdType
+1902,3+*4,WeirdType
+1903,X Y +,WeirdType
+1904,++,Postfix
+1905,3+*4,WeirdType
+1906,9 +,Infix
+1907,3+*4,Postfix
+1908,5 6 + +,Postfix
+1909,++,Infix
+1910,++,Infix
+1911,A+3,WeirdType
+1912,7 8,Postfix
+1913,++,Postfix
+1914,A+3,WeirdType
+1915,3+*4,Postfix
+1916,++,Infix
+1917,X Y +,Postfix
+1918,9 +,Infix
+1919,5 6 + +,Infix
+1920,X Y +,WeirdType
+1921,X Y +,Postfix
+1922,9 +,Infix
+1923,X Y +,Postfix
+1924,9 +,Postfix
+1925,4+B,Postfix
+1926,9 +,WeirdType
+1927,++,Postfix
+1928,++,Postfix
+1929,9 +,Infix
+1930,7 8,Infix
+1931,++,Infix
+1932,3+*4,WeirdType
+1933,3+*4,Postfix
+1934,3+*4,Infix
+1935,5 6 + +,Infix
+1936,7 8,Infix
+1937,A+3,Infix
+1938,4+B,Postfix
+1939,++,Infix
+1940,3+*4,WeirdType
+1941,A+3,Infix
+1942,4+B,Infix
+1943,A+3,Postfix
+1944,9 +,Postfix
+1945,X Y +,Postfix
+1946,3+*4,Postfix
+1947,3+*4,WeirdType
+1948,A+3,Postfix
+1949,4+B,Infix
+1950,A+3,Postfix
+1951,X Y +,Infix
+1952,3+*4,Infix
+1953,9 +,Postfix
+1954,X Y +,Infix
+1955,4+B,WeirdType
+1956,9 +,Postfix
+1957,3+*4,Infix
+1958,A+3,Infix
+1959,3+*4,WeirdType
+1960,4+B,WeirdType
+1961,9 +,Postfix
+1962,X Y +,WeirdType
+1963,++,Postfix
+1964,7 8,WeirdType
+1965,A+3,WeirdType
+1966,4+B,Postfix
+1967,3+*4,WeirdType
+1968,++,Infix
+1969,5 6 + +,Infix
+1970,9 +,Infix
+1971,9 +,WeirdType
+1972,X Y +,Postfix
+1973,A+3,Infix
+1974,++,WeirdType
+1975,4+B,Postfix
+1976,9 +,Infix
+1977,A+3,WeirdType
+1978,3+*4,WeirdType
+1979,7 8,Postfix
+1980,4+B,Infix
+1981,7 8,Postfix
+1982,4+B,WeirdType
+1983,5 6 + +,WeirdType
+1984,A+3,Infix
+1985,5 6 + +,WeirdType
+1986,7 8,WeirdType
+1987,4+B,Infix
+1988,3+*4,Infix
+1989,5 6 + +,WeirdType
+1990,5 6 + +,Postfix
+1991,9 +,Infix
+1992,X Y +,Postfix
+1993,7 8,Postfix
+1994,A+3,Postfix
+1995,3+*4,WeirdType
+1996,++,WeirdType
+1997,3+*4,Infix
+1998,7 8,WeirdType
+1999,5 6 + +,Postfix
+2000,3+*4,Postfix
+16,"1+2,Infix
+17,3+4
+18,5+6,Infix,ExtraColumn

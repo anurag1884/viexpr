@@ -1,0 +1,5 @@
+build
+.clangd
+.clang-format
+viexpr.code-workspace
+CMakePresets.json
